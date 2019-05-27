@@ -15,6 +15,20 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Co-learning
 
+### Graphs
+
+### Knowledge Bases
+
+### Intepretable Learning
+
+### Transfer Learning
+
+### Semi-supervised Learning
+
+### Self-supervised Learning
+
+### Unsupervised Learning
+
 ## Applications
 
 ### Language and Visual QA
@@ -60,6 +74,24 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 #### Papers
 
 ### Video-based Sentiment and Emotion Recognition
+
+#### Datasets
+
+#### Papers
+
+### Healthcare
+
+#### Datasets
+
+#### Papers
+
+### Self-driving Cars
+
+#### Datasets
+
+#### Papers
+
+### Robotics
 
 #### Datasets
 
