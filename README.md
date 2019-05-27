@@ -23,7 +23,25 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 #### Papers
 
-### Language Grounding
+### Language Grounding in QA
+
+#### Datasets
+
+#### Papers
+
+### Language Grouding in Navigation
+
+#### Datasets
+
+#### Papers
+
+### Commonsense Reasoning
+
+#### Datasets
+
+#### Papers
+
+### Multimodal Reinforcement Learning
 
 #### Datasets
 
