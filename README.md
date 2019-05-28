@@ -123,7 +123,7 @@ Habitat: Embodied Agents Challenge and Workshop, CVPR 2019 https://aihabitat.org
 
 Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019 https://sites.google.com/site/iccv19clvllsmdc/
 
-Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019
+Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 https://sites.google.com/view/multimodalvideo/
 
 Cross-Modal Learning in Real World, ICCV 2019 https://cromol.github.io/
 
