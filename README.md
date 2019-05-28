@@ -113,11 +113,11 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 The How2 Challenge: New Tasks for Vision & Language, ICML 2019 https://srvk.github.io/how2-challenge/
 
-Visual Question Answering and Dialog, CVPR 2019 https://visualqa.org/workshop.html
+Visual Question Answering and Dialog, CVPR 2019, CVPR 2017 https://visualqa.org/workshop.html
 
 Multi-modal Learning from Videos, CVPR 2019
 
-Multimodal Learning and Applications Workshop, CVPR 2019 https://mula-workshop.github.io/
+Multimodal Learning and Applications Workshop, CVPR 2019, ECCV 2018 https://mula-workshop.github.io/
 
 Habitat: Embodied Agents Challenge and Workshop, CVPR 2019
 
@@ -125,11 +125,11 @@ Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019
 
 Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019
 
-Cross-Modal Learning in Real World, ICCV 2019
+Cross-Modal Learning in Real World, ICCV 2019 https://cromol.github.io/
 
 Workshop on YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 https://research.google.com/youtube8m/workshop2018/
 
-Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015
+Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015 http://languageandvision.com/
 
 Sight and Sound, CVPR 2019, CVPR 2018 http://sightsound.org/
 
@@ -139,13 +139,9 @@ Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018 htt
 
 Workshop on Shortcomings in Vision and Language, ECCV 2018 https://sites.google.com/view/sivl/
 
-Multimodal Learning and Applications Workshop, ECCV 2018
-
-Grand Challenge and Workshop on Human Multimodal Language, ACL 2018
+Grand Challenge and Workshop on Human Multimodal Language, ACL 2018 http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/
 
 Workshop on Visual Understanding Across Modalities, CVPR 2017
-
-VQA Challenge Workshop, CVPR 2017
 
 International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017
 
@@ -153,7 +149,7 @@ The Joint Video and Language Understanding Workshop: MovieQA and The Large Scale
 
 Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis: EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013.
 
-Computer Vision for Audio-visual Media, ECCV 2016
+Computer Vision for Audio-visual Media, ECCV 2016 https://cvavm2016.wordpress.com/
 
 Workshop on Language and Vision: ACL 2016, EMNLP 2015
 
