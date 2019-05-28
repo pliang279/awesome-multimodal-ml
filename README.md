@@ -49,6 +49,12 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 #### Papers
 
+### Emergence of Language
+
+#### Datasets
+
+#### Papers
+
 ### Commonsense Reasoning
 
 #### Datasets
@@ -56,6 +62,12 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 #### Papers
 
 ### Multimodal Reinforcement Learning
+
+#### Datasets
+
+#### Papers
+
+### Multimodal Dialog
 
 #### Datasets
 
