@@ -133,6 +133,10 @@ Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015
 
 Sight and Sound, CVPR 2019, CVPR 2018
 
+Visually Grounded Interaction and Language, NeurIPS 2018
+
+Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018
+
 Workshop on Shortcomings in Vision and Language, ECCV 2018
 
 Multimodal Learning and Applications Workshop, ECCV 2018
