@@ -158,7 +158,7 @@ Connecting Language and Vision to Actions, ACL 2018 https://lvatutorial.github.i
 
 Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016
 
-Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017
+Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017 https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/
 
 # Courses
 CMU 11-777, Advanced Multimodal Machine Learning 
