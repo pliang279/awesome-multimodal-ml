@@ -111,13 +111,13 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Workshops
 
-The How2 Challenge: New Tasks for Vision & Language, ICML 2019
+The How2 Challenge: New Tasks for Vision & Language, ICML 2019 https://srvk.github.io/how2-challenge/
 
-Visual Question Answering and Dialog, CVPR 2019
+Visual Question Answering and Dialog, CVPR 2019 https://visualqa.org/workshop.html
 
 Multi-modal Learning from Videos, CVPR 2019
 
-Multimodal Learning and Applications Workshop, CVPR 2019
+Multimodal Learning and Applications Workshop, CVPR 2019 https://mula-workshop.github.io/
 
 Habitat: Embodied Agents Challenge and Workshop, CVPR 2019
 
