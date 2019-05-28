@@ -111,6 +111,16 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Workshops
 
+The How2 Challenge: New Tasks for Vision & Language, ICML 2019
+
+Visual Question Answering and Dialog, CVPR 2019
+
+Multi-modal Learning from Videos, CVPR 2019
+
+Multimodal Learning and Applications Workshop, CVPR 2019
+
+Habitat: Embodied Agents Challenge and Workshop, CVPR 2019
+
 Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019
 
 Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019
@@ -119,15 +129,15 @@ Cross-Modal Learning in Real World, ICCV 2019
 
 Workshop on YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017
 
+Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015
+
+Sight and Sound, CVPR 2019, CVPR 2018
+
 Workshop on Shortcomings in Vision and Language, ECCV 2018
 
 Multimodal Learning and Applications Workshop, ECCV 2018
 
 Grand Challenge and Workshop on Human Multimodal Language, ACL 2018
-
-Sight and Sound, CVPR 2018
-
-Language and Vision Workshop, CVPR 2018, CVPR 2017, CVPR 2015
 
 Workshop on Visual Understanding Across Modalities, CVPR 2017
 
