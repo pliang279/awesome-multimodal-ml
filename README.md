@@ -111,12 +111,19 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Workshops
 First Grand Challenge and Workshop on Human Multimodal Language, ACL 2018
+
 Language and Vision Workshop, CVPR 2017, CVPR 2015
+
 Workshop on Visual Understanding Across Modalities, CVPR 2017
+
 VQA Challenge Workshop, CVPR 2017
+
 Workshop on YouTube-8M Large-Scale Video Understanding, CVPR 2017
+
 International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017
+
 The Joint Video and Language Understanding Workshop: MovieQA and The Large Scale Movie Description Challenge, ICCV 2017
+
 Computer Vision for Audio-visual Media, ECCV 2016
 
 # Tutorials
