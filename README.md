@@ -165,3 +165,6 @@ Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017
 # Courses
 CMU 11-777, Advanced Multimodal Machine Learning 
 CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning
+CMU 10-808, 
+Language Grounding to Vision and Control https://katefvision.github.io/LanguageGrounding/
+Virginia Tech CS 6501-004, Vision & Language http://www.cs.virginia.edu/~vicente/vislang/
