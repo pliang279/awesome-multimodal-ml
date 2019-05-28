@@ -126,6 +126,10 @@ The Joint Video and Language Understanding Workshop: MovieQA and The Large Scale
 
 Computer Vision for Audio-visual Media, ECCV 2016
 
+Workshop on Language and Vision: ACL 2016, EMNLP 2015
+
+Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis: EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013.
+
 # Tutorials
 
 # Courses
