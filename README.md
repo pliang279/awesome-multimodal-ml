@@ -98,6 +98,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 #### Papers
 
 # Workshops
+First Grand Challenge and Workshop on Human Multimodal Language, ACL 2018
+
 
 # Courses
+CMU 11-777 Advanced Multimodal Machine Learning 
 
