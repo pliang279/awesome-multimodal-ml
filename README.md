@@ -107,6 +107,8 @@ International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017
 The Joint Video and Language Understanding Workshop: MovieQA and The Large Scale Movie Description Challenge, ICCV 2017
 Computer Vision for Audio-visual Media, ECCV 2016
 
+# Tutorials
+
 # Courses
 CMU 11-777 Advanced Multimodal Machine Learning 
 
