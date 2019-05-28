@@ -156,7 +156,7 @@ Workshop on Language and Vision: ACL 2016, EMNLP 2015 https://vision.cs.hacettep
 # Tutorials
 Connecting Language and Vision to Actions, ACL 2018 https://lvatutorial.github.io/
 
-Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016
+Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016 https://sites.google.com/site/multiml2016cvpr/
 
 Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017 https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/
 
