@@ -158,6 +158,7 @@ Computer Vision for Audio-visual Media, ECCV 2016
 Workshop on Language and Vision: ACL 2016, EMNLP 2015
 
 # Tutorials
+Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016
 
 # Courses
 CMU 11-777 Advanced Multimodal Machine Learning 
