@@ -127,17 +127,17 @@ Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019
 
 Cross-Modal Learning in Real World, ICCV 2019
 
-Workshop on YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017
+Workshop on YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 https://research.google.com/youtube8m/workshop2018/
 
 Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015
 
-Sight and Sound, CVPR 2019, CVPR 2018
+Sight and Sound, CVPR 2019, CVPR 2018 http://sightsound.org/
 
-Visually Grounded Interaction and Language, NeurIPS 2018
+Visually Grounded Interaction and Language, NeurIPS 2018 https://nips2018vigil.github.io/
 
-Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018
+Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018 https://irasl.gitlab.io/
 
-Workshop on Shortcomings in Vision and Language, ECCV 2018
+Workshop on Shortcomings in Vision and Language, ECCV 2018 https://sites.google.com/view/sivl/
 
 Multimodal Learning and Applications Workshop, ECCV 2018
 
@@ -158,7 +158,7 @@ Computer Vision for Audio-visual Media, ECCV 2016
 Workshop on Language and Vision: ACL 2016, EMNLP 2015
 
 # Tutorials
-Connecting Language and Vision to Actions, ACL 2018
+Connecting Language and Vision to Actions, ACL 2018 https://lvatutorial.github.io/
 
 Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016
 
@@ -167,8 +167,7 @@ Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017
 # Courses
 CMU 11-777, Advanced Multimodal Machine Learning 
 
-
-CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning
+CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning http://www.cs.cmu.edu/~jeanoh/16-785/
 
 CMU 10-808, Language Grounding to Vision and Control https://katefvision.github.io/LanguageGrounding/
 
