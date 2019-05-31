@@ -40,6 +40,7 @@ On Deep Multi-View Representation Learning, ICML 2015 [paper](http://proceedings
 ### Language and Visual QA
 
 VQA: Visual Question Answering, ICCV 2015 [paper](https://arxiv.org/abs/1505.00468) [code](https://visualqa.org/)
+
 Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, EMNLP 2016 [paper](https://arxiv.org/abs/1606.01847) [code](https://github.com/akirafukui/vqa-mcb)
 
 ### Language Grounding in QA
