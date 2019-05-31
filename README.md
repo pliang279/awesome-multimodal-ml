@@ -127,37 +127,37 @@ Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 [link](https
 
 Cross-Modal Learning in Real World, ICCV 2019 [link](https://cromol.github.io/)
 
-Spatial Language Understanding and Grounded Communication for Robotics, NAACL 2019 https://splu-robonlp.github.io/
+Spatial Language Understanding and Grounded Communication for Robotics, NAACL 2019 [link](https://splu-robonlp.github.io/)
 
-YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 https://research.google.com/youtube8m/workshop2018/
+YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 [link](https://research.google.com/youtube8m/workshop2018/)
 
-Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015 http://languageandvision.com/
+Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015 [link](http://languageandvision.com/)
 
-Sight and Sound, CVPR 2019, CVPR 2018 http://sightsound.org/
+Sight and Sound, CVPR 2019, CVPR 2018 [link](http://sightsound.org/)
 
-The Large Scale Movie Description Challenge (LSMDC), ICCV 2019, ICCV 2017 https://sites.google.com/site/describingmovies/
+The Large Scale Movie Description Challenge (LSMDC), ICCV 2019, ICCV 2017 [link](https://sites.google.com/site/describingmovies/)
 
-Visually Grounded Interaction and Language, NeurIPS 2018 https://nips2018vigil.github.io/
+Visually Grounded Interaction and Language, NeurIPS 2018 [link](https://nips2018vigil.github.io/)
 
-Wordplay: Reinforcement and Language Learning in Text-based Games, NeurIPS 2018 https://www.wordplay2018.com/
+Wordplay: Reinforcement and Language Learning in Text-based Games, NeurIPS 2018 [link](https://www.wordplay2018.com/)
 
-Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018 https://irasl.gitlab.io/
+Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018 [link](https://irasl.gitlab.io/)
 
-Shortcomings in Vision and Language, ECCV 2018 https://sites.google.com/view/sivl/
+Shortcomings in Vision and Language, ECCV 2018 [link](https://sites.google.com/view/sivl/)
 
-Grand Challenge and Workshop on Human Multimodal Language, ACL 2018 http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/
+Grand Challenge and Workshop on Human Multimodal Language, ACL 2018 [link](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/)
 
-Computational Approaches to Subjectivity, Sentiment and Social Media Analysis: EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013 https://wt-public.emm4u.eu/wassa2018/
+Computational Approaches to Subjectivity, Sentiment and Social Media Analysis: EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013 [link](https://wt-public.emm4u.eu/wassa2018/)
 
-Visual Understanding Across Modalities, CVPR 2017 http://vuchallenge.org/
+Visual Understanding Across Modalities, CVPR 2017 [link](http://vuchallenge.org/)
 
-International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017 https://cvavm2017.wordpress.com/
+International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017 [link](https://cvavm2017.wordpress.com/)
 
-Language Grounding for Robotics, ACL 2017 https://robo-nlp.github.io/2017_index.html
+Language Grounding for Robotics, ACL 2017 [link](https://robo-nlp.github.io/2017_index.html)
 
-Computer Vision for Audio-visual Media, ECCV 2016 https://cvavm2016.wordpress.com/
+Computer Vision for Audio-visual Media, ECCV 2016 [link](https://cvavm2016.wordpress.com/)
 
-Language and Vision: ACL 2016, EMNLP 2015 https://vision.cs.hacettepe.edu.tr/vl2016/
+Language and Vision: ACL 2016, EMNLP 2015 [link](https://vision.cs.hacettepe.edu.tr/vl2016/)
 
 # Tutorials
 Connecting Language and Vision to Actions, ACL 2018 [link](https://lvatutorial.github.io/)
