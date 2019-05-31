@@ -127,6 +127,8 @@ Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 https://site
 
 Cross-Modal Learning in Real World, ICCV 2019 https://cromol.github.io/
 
+Workshop on Spatial Language Understanding and Grounded Communication for Robotics, NAACL 2019 https://splu-robonlp.github.io/
+
 Workshop on YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 https://research.google.com/youtube8m/workshop2018/
 
 Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015 http://languageandvision.com/
@@ -148,6 +150,8 @@ Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media
 Workshop on Visual Understanding Across Modalities, CVPR 2017 http://vuchallenge.org/
 
 International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017 https://cvavm2017.wordpress.com/
+
+Language Grounding for Robotics, ACL 2017 https://robo-nlp.github.io/2017_index.html
 
 Computer Vision for Audio-visual Media, ECCV 2016 https://cvavm2016.wordpress.com/
 
