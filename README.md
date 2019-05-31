@@ -13,6 +13,8 @@ Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09
 
 ### Multimodal Alignment
 
+On Deep Multi-View Representation Learning, ICML 2015 [paper](http://proceedings.mlr.press/v37/wangb15.pdf)
+
 ### Multimodal Translation
 
 ### Co-learning
@@ -25,6 +27,8 @@ Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09
 
 ### Transfer Learning
 
+### Generative Learning
+
 ### Semi-supervised Learning
 
 ### Self-supervised Learning
@@ -35,11 +39,8 @@ Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09
 
 ### Language and Visual QA
 
-#### Datasets
-
-VQA: Visual Question Answering [paper](https://arxiv.org/abs/1505.00468) [code](https://visualqa.org/)
-
-#### Papers
+VQA: Visual Question Answering, ICCV 2015 [paper](https://arxiv.org/abs/1505.00468) [code](https://visualqa.org/)
+Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, EMNLP 2016 [paper](https://arxiv.org/abs/1606.01847) [code](https://github.com/akirafukui/vqa-mcb)
 
 ### Language Grounding in QA
 
@@ -49,73 +50,33 @@ VQA: Visual Question Answering [paper](https://arxiv.org/abs/1505.00468) [code](
 
 ### Language Grouding in Navigation
 
-#### Datasets
-
-#### Papers
+Embodied Question Answering, CVPR 2018 [paper](https://arxiv.org/abs/1711.11543) [code](https://embodiedqa.org/)
 
 ### Emergence of Language
 
-#### Datasets
-
-#### Papers
-
 ### Commonsense Reasoning
 
-#### Datasets
-
-From Recognition to Cognition: Visual Commonsense Reasoning [paper](https://arxiv.org/abs/1811.10830) [code](https://visualcommonsense.com/)
-
-#### Papers
+From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2018 [paper](https://arxiv.org/abs/1811.10830) [code](https://visualcommonsense.com/)
 
 ### Multimodal Reinforcement Learning
 
-#### Datasets
-
-#### Papers
-
 ### Multimodal Dialog
-
-#### Datasets
-
-#### Papers
 
 ### Language and Audio
 
-#### Datasets
-
-#### Papers
-
 ### Video-based Activity Recognition
 
-#### Datasets
+### Affect Recognition
 
-#### Papers
+Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph, ACL 2018 [paper](http://aclweb.org/anthology/P18-1208) [code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
-### Video-based Sentiment and Emotion Recognition
-
-#### Datasets
-
-Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph [paper](http://aclweb.org/anthology/P18-1208) [code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
-
-#### Papers
+AMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [paper](https://dl.acm.org/citation.cfm?id=3136806) [code](http://amhuse.phuselab.di.unimi.it/)
 
 ### Healthcare
 
-#### Datasets
-
-#### Papers
-
 ### Self-driving Cars
 
-#### Datasets
-
-#### Papers
-
 ### Robotics
-
-#### Datasets
-
-#### Papers
 
 # Workshops
 
