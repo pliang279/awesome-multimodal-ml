@@ -113,19 +113,19 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 The How2 Challenge: New Tasks for Vision & Language, ICML 2019 [link](https://srvk.github.io/how2-challenge/)
 
-Visual Question Answering and Dialog, CVPR 2019, CVPR 2017 [link](https://visualqa.org/workshop.html
+Visual Question Answering and Dialog, CVPR 2019, CVPR 2017 [link](https://visualqa.org/workshop.html)
 
-Multi-modal Learning from Videos, CVPR 2019 [link](https://sites.google.com/view/mmlv/home
+Multi-modal Learning from Videos, CVPR 2019 [link](https://sites.google.com/view/mmlv/home)
 
-Multimodal Learning and Applications Workshop, CVPR 2019, ECCV 2018 [link](https://mula-workshop.github.io/
+Multimodal Learning and Applications Workshop, CVPR 2019, ECCV 2018 [link](https://mula-workshop.github.io/)
 
-Habitat: Embodied Agents Challenge and Workshop, CVPR 2019 [link](https://aihabitat.org/workshop/
+Habitat: Embodied Agents Challenge and Workshop, CVPR 2019 [link](https://aihabitat.org/workshop/)
 
-Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019 [link](https://sites.google.com/site/iccv19clvllsmdc/
+Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019 [link](https://sites.google.com/site/iccv19clvllsmdc/)
 
-Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 [link](https://sites.google.com/view/multimodalvideo/
+Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 [link](https://sites.google.com/view/multimodalvideo/)
 
-Cross-Modal Learning in Real World, ICCV 2019 [link](https://cromol.github.io/
+Cross-Modal Learning in Real World, ICCV 2019 [link](https://cromol.github.io/)
 
 Spatial Language Understanding and Grounded Communication for Robotics, NAACL 2019 https://splu-robonlp.github.io/
 
