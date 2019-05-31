@@ -5,6 +5,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ## Survey Papers
 
+Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09406
+
 ## Core Areas
 
 ### Multimodal Fusion
@@ -35,6 +37,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 #### Datasets
 
+VQA: Visual Question Answering [paper](https://arxiv.org/abs/1505.00468) [code](https://visualqa.org/)
+
 #### Papers
 
 ### Language Grounding in QA
@@ -58,6 +62,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 ### Commonsense Reasoning
 
 #### Datasets
+
+From Recognition to Cognition: Visual Commonsense Reasoning [paper](https://arxiv.org/abs/1811.10830) [code](https://visualcommonsense.com/)
 
 #### Papers
 
@@ -88,6 +94,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 ### Video-based Sentiment and Emotion Recognition
 
 #### Datasets
+
+Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph [paper](http://aclweb.org/anthology/P18-1208) [code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
 #### Papers
 
@@ -167,7 +175,7 @@ Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016 [link](https://sites
 Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017 [link](https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/)
 
 # Courses
-CMU 11-777, Advanced Multimodal Machine Learning 
+CMU 11-777, Advanced Multimodal Machine Learning [link](https://piazza.com/cmu/fall2018/11777/resources)
 
 CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning [link](http://www.cs.cmu.edu/~jeanoh/16-785/)
 
