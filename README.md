@@ -55,6 +55,10 @@ Embodied Question Answering, CVPR 2018 [paper](https://arxiv.org/abs/1711.11543)
 
 ### Emergence of Language
 
+Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [paper] (https://arxiv.org/abs/1706.08502) [code1] (https://github.com/batra-mlp-lab/lang-emerge) [code2] (https://github.com/kdexd/lang-emerge-parlai)
+
+On the Pitfalls of Measuring Emergent Communication, AAMAS 2019 [paper] (https://arxiv.org/abs/1903.05168) [code] (https://github.com/facebookresearch/measuring-emergent-comm) 
+
 ### Commonsense Reasoning
 
 From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2018 [paper](https://arxiv.org/abs/1811.10830) [code](https://visualcommonsense.com/)
