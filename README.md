@@ -55,9 +55,19 @@ Embodied Question Answering, CVPR 2018 [paper](https://arxiv.org/abs/1711.11543)
 
 ### Emergence of Language
 
+The Emergence of Compositional Structures in Perceptually Grounded Language Games, AI 2005 [paper] (https://www.cs.utexas.edu/~kuipers/readings/Vogt-aij-05.pdf)
+
+Multi-Agent Cooperation and the Emergence of (Natural) Language, ICLR 2017 [paper] (https://arxiv.org/abs/1612.07182)
+
 Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [paper] (https://arxiv.org/abs/1706.08502) [code1] (https://github.com/batra-mlp-lab/lang-emerge) [code2] (https://github.com/kdexd/lang-emerge-parlai)
 
-On the Pitfalls of Measuring Emergent Communication, AAMAS 2019 [paper] (https://arxiv.org/abs/1903.05168) [code] (https://github.com/facebookresearch/measuring-emergent-comm) 
+Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, NeurIPS 2017 [paper] (https://arxiv.org/abs/1705.11192)
+
+Emergent Translation in Multi-Agent Communication, ICLR 2018 [paper] (https://arxiv.org/abs/1710.06922) [code] (https://github.com/facebookresearch/translagent)
+
+On the Pitfalls of Measuring Emergent Communication, AAMAS 2019 [paper] (https://arxiv.org/abs/1903.05168) [code] (https://github.com/facebookresearch/measuring-emergent-comm)
+
+Emergence of Compositional Language with Deep Generational Transmission, ICML 2019 [paper] (https://arxiv.org/abs/1904.09067)
 
 ### Commonsense Reasoning
 
