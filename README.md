@@ -79,6 +79,8 @@ AMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [paper](https://dl.ac
 
 ### Robotics
 
+Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks [paper] (https://arxiv.org/abs/1810.10191)
+
 # Workshops
 
 The How2 Challenge: New Tasks for Vision & Language, ICML 2019 [link](https://srvk.github.io/how2-challenge/)
