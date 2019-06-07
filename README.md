@@ -37,27 +37,27 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language and Visual QA
 
+[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890.pdf), CVPR 2017 [[code]](https://github.com/facebookresearch/clevr-iep) [[dataset generation]](https://github.com/facebookresearch/clevr-dataset-gen)
+
 [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847), EMNLP 2016 [[code]](https://github.com/akirafukui/vqa-mcb)
 
 [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
-
-[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890.pdf), CVPR 2017 [[code]](https://github.com/facebookresearch/clevr-iep) [[dataset generation]](https://github.com/facebookresearch/clevr-dataset-gen)
 
 ### Language Grounding in QA
 
 ### Language Grouding in Navigation
 
-[Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
-
 [Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268), NAACL 2019 [[code]](https://github.com/airsplay/R2R-EnvDrop)
+
+[Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
 ### Multimodal Machine Translation
 
-[Multi30K: Multilingual English-German Image Descriptions](https://aclweb.org/anthology/W16-3210.pdf)
-
-[Does Multimodality Help Human and Machine for Translation and Image Captioning?](http://www.statmt.org/wmt16/pdf/W16-2358.pdf), WMT16
-
 [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422), NAACL 2019
+
+[Multi30K: Multilingual English-German Image Descriptions](https://aclweb.org/anthology/W16-3210.pdf), ACL Workshop on Language and Vision 2016
+
+[Does Multimodality Help Human and Machine for Translation and Image Captioning?](http://www.statmt.org/wmt16/pdf/W16-2358.pdf), ACL WMT 2016
 
 ### Multi-agent Communication
 
