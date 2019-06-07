@@ -41,13 +41,21 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
 
+[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890.pdf), CVPR 2017 [[code]](https://github.com/facebookresearch/clevr-iep) [[dataset generation]](https://github.com/facebookresearch/clevr-dataset-gen)
+
 ### Language Grounding in QA
 
 ### Language Grouding in Navigation
 
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
+[Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268), NAACL 2019 [[code]](https://github.com/airsplay/R2R-EnvDrop)
+
 ### Multimodal Machine Translation
+
+[Multi30K: Multilingual English-German Image Descriptions](https://aclweb.org/anthology/W16-3210.pdf)
+
+[Does Multimodality Help Human and Machine for Translation and Image Captioning?](http://www.statmt.org/wmt16/pdf/W16-2358.pdf), WMT16
 
 [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422), NAACL 2019
 
@@ -73,7 +81,6 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/abs/1612.07182), ICLR 2017
 
-
 [Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf), NIPS 2016.
 
 [Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf), NIPS 2016.
@@ -88,15 +95,27 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Multimodal Dialog
 
+[Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017 [[code]](https://github.com/batra-mlp-lab/visdial)
+
+[CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://www.aclweb.org/anthology/N19-1058), NAACL 2019 [[code]](https://github.com/satwikkottur/clevr-dialog)
+
 ### Language and Audio
 
 ### Video-based Activity Recognition
+
+[What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf) [[code]](https://github.com/malmaud/whats_cookin)
 
 ### Affect Recognition
 
 [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](http://aclweb.org/anthology/P18-1208), ACL 2018 [[code]](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
 [AMHUSE - A Multimodal dataset for HUmor SEnsing](https://dl.acm.org/citation.cfm?id=3136806), ICMI 2017 [[code]](http://amhuse.phuselab.di.unimi.it/)
+
+[AFEW - Acted Facial Expressions In The Wild](http://users.cecs.anu.edu.au/%7Eadhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) [[code]](https://cs.anu.edu.au/few/AFEW.html)
+
+[Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)](https://arxiv.org/pdf/1906.01815.pdf), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
+
+[The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf) [[code]](https://sail.usc.edu/iemocap/)
 
 ### Healthcare
 
