@@ -5,7 +5,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ## Survey Papers
 
-[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
+[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406), TPAMI 2019
 
 ## Core Areas
 
