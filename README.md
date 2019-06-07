@@ -133,7 +133,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [AMHUSE - A Multimodal dataset for HUmor SEnsing](https://dl.acm.org/citation.cfm?id=3136806), ICMI 2017 [[code]](http://amhuse.phuselab.di.unimi.it/)
 
-[AFEW - Acted Facial Expressions In The Wild](http://users.cecs.anu.edu.au/%7Eadhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) [[code]](https://cs.anu.edu.au/few/AFEW.html)
+[Collecting Large, Richly Annotated Facial-Expression Databases from Movies](http://users.cecs.anu.edu.au/%7Eadhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf), IEEE Multimedia 2012 [[code]](https://cs.anu.edu.au/few/AFEW.html)
 
 [Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)](https://arxiv.org/pdf/1906.01815.pdf), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
 
