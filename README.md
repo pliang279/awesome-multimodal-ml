@@ -5,7 +5,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ## Survey Papers
 
-Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09406
+[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
 
 ## Core Areas
 
@@ -13,7 +13,7 @@ Multimodal Machine Learning: A Survey and Taxonomy https://arxiv.org/abs/1705.09
 
 ### Multimodal Alignment
 
-On Deep Multi-View Representation Learning, ICML 2015 [paper](http://proceedings.mlr.press/v37/wangb15.pdf)
+[On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf), ICML 2015
 
 ### Multimodal Translation
 
@@ -39,9 +39,9 @@ On Deep Multi-View Representation Learning, ICML 2015 [paper](http://proceedings
 
 ### Language and Visual QA
 
-VQA: Visual Question Answering, ICCV 2015 [paper](https://arxiv.org/abs/1505.00468) [code](https://visualqa.org/)
+[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [code](https://visualqa.org/)
 
-Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, EMNLP 2016 [paper](https://arxiv.org/abs/1606.01847) [code](https://github.com/akirafukui/vqa-mcb)
+[Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847), EMNLP 2016 [code](https://github.com/akirafukui/vqa-mcb)
 
 ### Language Grounding in QA
 
@@ -51,7 +51,7 @@ Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Gro
 
 ### Language Grouding in Navigation
 
-Embodied Question Answering, CVPR 2018 [paper](https://arxiv.org/abs/1711.11543) [code](https://embodiedqa.org/)
+[Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [code](https://embodiedqa.org/)
 
 ### Multi-agent Communication
 
