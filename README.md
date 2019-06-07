@@ -17,6 +17,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Multimodal Translation
 
+[Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
+
 ### Co-learning
 
 ### Graphs
@@ -156,6 +158,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Computer Vision for Audio-visual Media](https://cvavm2016.wordpress.com/), ECCV 2016
 
 [Language and Vision](https://vision.cs.hacettepe.edu.tr/vl2016/), ACL 2016, EMNLP 2015
+
+WMT18: Shared Task on Multimodal Machine Translation, EMNLP 2018 [link](http://www.statmt.org/wmt18/multimodal-task.html)
 
 # Tutorials
 [Connecting Language and Vision to Actions](https://lvatutorial.github.io/), ACL 2018
