@@ -53,21 +53,33 @@ Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Gro
 
 Embodied Question Answering, CVPR 2018 [paper](https://arxiv.org/abs/1711.11543) [code](https://embodiedqa.org/)
 
-### Emergence of Language
+### Multi-agent Communication
 
-The Emergence of Compositional Structures in Perceptually Grounded Language Games, AI 2005 [paper] (https://www.cs.utexas.edu/~kuipers/readings/Vogt-aij-05.pdf)
+[The Emergence of Compositional Structures in Perceptually Grounded Language Games](https://www.cs.utexas.edu/~kuipers/readings/Vogt-aij-05.pdf), AI 2005
 
-Multi-Agent Cooperation and the Emergence of (Natural) Language, ICLR 2017 [paper] (https://arxiv.org/abs/1612.07182)
+[Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf), NIPS 2016.
 
-Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [paper] (https://arxiv.org/abs/1706.08502) [code1] (https://github.com/batra-mlp-lab/lang-emerge) [code2] (https://github.com/kdexd/lang-emerge-parlai)
+[Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf), NIPS 2016.
 
-Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, NeurIPS 2017 [paper] (https://arxiv.org/abs/1705.11192)
+[Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/abs/1612.07182), ICLR 2017
 
-Emergent Translation in Multi-Agent Communication, ICLR 2018 [paper] (https://arxiv.org/abs/1710.06922) [code] (https://github.com/facebookresearch/translagent)
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf), ICCV 2017 [code](https://github.com/batra-mlp-lab/visdial-rl)
 
-On the Pitfalls of Measuring Emergent Communication, AAMAS 2019 [paper] (https://arxiv.org/abs/1903.05168) [code] (https://github.com/facebookresearch/measuring-emergent-comm)
+[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502), EMNLP 2017 [code1](https://github.com/batra-mlp-lab/lang-emerge) [code2](https://github.com/kdexd/lang-emerge-parlai)
 
-Emergence of Compositional Language with Deep Generational Transmission, ICML 2019 [paper] (https://arxiv.org/abs/1904.09067)
+[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf), AAAI 2018
+
+[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192), NeurIPS 2017
+
+[Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922), ICLR 2018 [code](https://github.com/facebookresearch/translagent)
+
+[Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW), ICLR 2018
+
+[Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW), ICLR 2018 [code](https://github.com/ASAPPinc/emergent_comms_negotiation)
+
+[On the Pitfalls of Measuring Emergent Communication](https://arxiv.org/abs/1903.05168), AAMAS 2019 [code](https://github.com/facebookresearch/measuring-emergent-comm)
+
+[Emergence of Compositional Language with Deep Generational Transmission](https://arxiv.org/abs/1904.09067), ICML 2019
 
 ### Commonsense Reasoning
 
