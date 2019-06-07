@@ -109,66 +109,66 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Workshops
 
-The How2 Challenge: New Tasks for Vision & Language, ICML 2019 [link](https://srvk.github.io/how2-challenge/)
+[The How2 Challenge: New Tasks for Vision & Language](https://srvk.github.io/how2-challenge/), ICML 2019
 
-Visual Question Answering and Dialog, CVPR 2019, CVPR 2017 [link](https://visualqa.org/workshop.html)
+[Visual Question Answering and Dialog](https://visualqa.org/workshop.html), CVPR 2019, CVPR 2017
 
-Multi-modal Learning from Videos, CVPR 2019 [link](https://sites.google.com/view/mmlv/home)
+[Multi-modal Learning from Videos](https://sites.google.com/view/mmlv/home), CVPR 2019
 
-Multimodal Learning and Applications Workshop, CVPR 2019, ECCV 2018 [link](https://mula-workshop.github.io/)
+[Multimodal Learning and Applications Workshop](https://mula-workshop.github.io/), CVPR 2019, ECCV 2018
 
-Habitat: Embodied Agents Challenge and Workshop, CVPR 2019 [link](https://aihabitat.org/workshop/)
+[Habitat: Embodied Agents Challenge and Workshop](https://aihabitat.org/workshop/), CVPR 2019
 
-Closing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019 [link](https://sites.google.com/site/iccv19clvllsmdc/)
+[Closing the Loop Between Vision and Language & LSMD Challenge](https://sites.google.com/site/iccv19clvllsmdc/), ICCV 2019
 
-Multi-modal Video Analysis and Moments in Time Challenge, ICCV 2019 [link](https://sites.google.com/view/multimodalvideo/)
+[Multi-modal Video Analysis and Moments in Time Challenge](https://sites.google.com/view/multimodalvideo/), ICCV 2019
 
-Cross-Modal Learning in Real World, ICCV 2019 [link](https://cromol.github.io/)
+[Cross-Modal Learning in Real World](https://cromol.github.io/), ICCV 2019
 
-Spatial Language Understanding and Grounded Communication for Robotics, NAACL 2019 [link](https://splu-robonlp.github.io/)
+[Spatial Language Understanding and Grounded Communication for Robotics](https://splu-robonlp.github.io/), NAACL 2019
 
-YouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017 [link](https://research.google.com/youtube8m/workshop2018/)
+[YouTube-8M Large-Scale Video Understanding](https://research.google.com/youtube8m/workshop2018/), ICCV 2019, ECCV 2018, CVPR 2017
 
-Language and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015 [link](http://languageandvision.com/)
+[Language and Vision Workshop](http://languageandvision.com/), CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015
 
-Sight and Sound, CVPR 2019, CVPR 2018 [link](http://sightsound.org/)
+[Sight and Sound](http://sightsound.org/), CVPR 2019, CVPR 2018
 
-The Large Scale Movie Description Challenge (LSMDC), ICCV 2019, ICCV 2017 [link](https://sites.google.com/site/describingmovies/)
+[The Large Scale Movie Description Challenge (LSMDC)](https://sites.google.com/site/describingmovies/), ICCV 2019, ICCV 2017
 
-Visually Grounded Interaction and Language, NeurIPS 2018 [link](https://nips2018vigil.github.io/)
+[Visually Grounded Interaction and Language](https://nips2018vigil.github.io/), NeurIPS 2018
 
-Wordplay: Reinforcement and Language Learning in Text-based Games, NeurIPS 2018 [link](https://www.wordplay2018.com/)
+[Wordplay: Reinforcement and Language Learning in Text-based Games](https://www.wordplay2018.com/), NeurIPS 2018
 
-Interpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018 [link](https://irasl.gitlab.io/)
+[Interpretability and Robustness in Audio, Speech, and Language](https://irasl.gitlab.io/), NeurIPS 2018
 
-Shortcomings in Vision and Language, ECCV 2018 [link](https://sites.google.com/view/sivl/)
+[Shortcomings in Vision and Language](https://sites.google.com/view/sivl/), ECCV 2018
 
-Grand Challenge and Workshop on Human Multimodal Language, ACL 2018 [link](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/)
+[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/), ACL 2018
 
-Computational Approaches to Subjectivity, Sentiment and Social Media Analysis: EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013 [link](https://wt-public.emm4u.eu/wassa2018/)
+[Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/), EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013
 
-Visual Understanding Across Modalities, CVPR 2017 [link](http://vuchallenge.org/)
+[Visual Understanding Across Modalities](http://vuchallenge.org/), CVPR 2017
 
-International Workshop on Computer Vision for Audio-Visual Media, ICCV 2017 [link](https://cvavm2017.wordpress.com/)
+[International Workshop on Computer Vision for Audio-Visual Media](https://cvavm2017.wordpress.com/), ICCV 2017
 
-Language Grounding for Robotics, ACL 2017 [link](https://robo-nlp.github.io/2017_index.html)
+[Language Grounding for Robotics](https://robo-nlp.github.io/2017_index.html), ACL 2017
 
-Computer Vision for Audio-visual Media, ECCV 2016 [link](https://cvavm2016.wordpress.com/)
+[Computer Vision for Audio-visual Media](https://cvavm2016.wordpress.com/), ECCV 2016
 
-Language and Vision: ACL 2016, EMNLP 2015 [link](https://vision.cs.hacettepe.edu.tr/vl2016/)
+[Language and Vision](https://vision.cs.hacettepe.edu.tr/vl2016/), ACL 2016, EMNLP 2015
 
 # Tutorials
-Connecting Language and Vision to Actions, ACL 2018 [link](https://lvatutorial.github.io/)
+[Connecting Language and Vision to Actions](https://lvatutorial.github.io/), ACL 2018
 
-Multimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016 [link](https://sites.google.com/site/multiml2016cvpr/)
+[Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/), ACL 2017, CVPR 2016, ICMI 2016
 
-Vision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017 [link](https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/)
+[Vision and Language: Bridging Vision and Language with Deep Learning](https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/), ICIP 2017
 
 # Courses
-CMU 11-777, Advanced Multimodal Machine Learning [link](https://piazza.com/cmu/fall2018/11777/resources)
+[CMU 11-777, Advanced Multimodal Machine Learning](https://piazza.com/cmu/fall2018/11777/resources)
 
-CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning [link](http://www.cs.cmu.edu/~jeanoh/16-785/)
+[CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning](http://www.cs.cmu.edu/~jeanoh/16-785/)
 
-CMU 10-808, Language Grounding to Vision and Control [link](https://katefvision.github.io/LanguageGrounding/)
+[CMU 10-808, Language Grounding to Vision and Control](https://katefvision.github.io/LanguageGrounding/)
 
-Virginia Tech CS 6501-004, Vision & Language [link](http://www.cs.virginia.edu/~vicente/vislang/)
+[Virginia Tech CS 6501-004, Vision & Language](http://www.cs.virginia.edu/~vicente/vislang/)
