@@ -83,7 +83,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Commonsense Reasoning
 
-From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2018 [paper](https://arxiv.org/abs/1811.10830) [code](https://visualcommonsense.com/)
+[From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830), CVPR 2018 [code](https://visualcommonsense.com/)
 
 ### Multimodal Reinforcement Learning
 
@@ -95,9 +95,9 @@ From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2018 [paper](h
 
 ### Affect Recognition
 
-Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph, ACL 2018 [paper](http://aclweb.org/anthology/P18-1208) [code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+[Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](http://aclweb.org/anthology/P18-1208), ACL 2018 [code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
-AMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [paper](https://dl.acm.org/citation.cfm?id=3136806) [code](http://amhuse.phuselab.di.unimi.it/)
+[AMHUSE - A Multimodal dataset for HUmor SEnsing](https://dl.acm.org/citation.cfm?id=3136806), ICMI 2017 [code](http://amhuse.phuselab.di.unimi.it/)
 
 ### Healthcare
 
@@ -105,7 +105,7 @@ AMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [paper](https://dl.ac
 
 ### Robotics
 
-Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks [paper] (https://arxiv.org/abs/1810.10191)
+[Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
 
 # Workshops
 
