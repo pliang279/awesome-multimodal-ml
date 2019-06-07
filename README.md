@@ -15,10 +15,6 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf), ICML 2015
 
-### Multimodal Translation
-
-[Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422), NAACL 2019
-
 ### Co-learning
 
 ### Graphs
@@ -41,37 +37,25 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language and Visual QA
 
-[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
-
 [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847), EMNLP 2016 [[code]](https://github.com/akirafukui/vqa-mcb)
 
+[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
+
 ### Language Grounding in QA
-
-#### Datasets
-
-#### Papers
 
 ### Language Grouding in Navigation
 
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
+### Multimodal Machine Translation
+
+[Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422), NAACL 2019
+
 ### Multi-agent Communication
 
-[The Emergence of Compositional Structures in Perceptually Grounded Language Games](https://www.cs.utexas.edu/~kuipers/readings/Vogt-aij-05.pdf), AI 2005
+[Emergence of Compositional Language with Deep Generational Transmission](https://arxiv.org/abs/1904.09067), ICML 2019
 
-[Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf), NIPS 2016.
-
-[Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf), NIPS 2016.
-
-[Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/abs/1612.07182), ICLR 2017
-
-[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf), ICCV 2017 [code](https://github.com/batra-mlp-lab/visdial-rl)
-
-[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502), EMNLP 2017 [[code1]](https://github.com/batra-mlp-lab/lang-emerge) [[code2]](https://github.com/kdexd/lang-emerge-parlai)
-
-[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf), AAAI 2018
-
-[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192), NeurIPS 2017
+[On the Pitfalls of Measuring Emergent Communication](https://arxiv.org/abs/1903.05168), AAMAS 2019 [[code]](https://github.com/facebookresearch/measuring-emergent-comm)
 
 [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922), ICLR 2018 [[code]](https://github.com/facebookresearch/translagent)
 
@@ -79,9 +63,22 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW), ICLR 2018 [[code]](https://github.com/ASAPPinc/emergent_comms_negotiation)
 
-[On the Pitfalls of Measuring Emergent Communication](https://arxiv.org/abs/1903.05168), AAMAS 2019 [[code]](https://github.com/facebookresearch/measuring-emergent-comm)
+[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf), AAAI 2018
 
-[Emergence of Compositional Language with Deep Generational Transmission](https://arxiv.org/abs/1904.09067), ICML 2019
+[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192), NeurIPS 2017
+
+[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502), EMNLP 2017 [[code1]](https://github.com/batra-mlp-lab/lang-emerge) [[code2]](https://github.com/kdexd/lang-emerge-parlai)
+
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf), ICCV 2017 [code](https://github.com/batra-mlp-lab/visdial-rl)
+
+[Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/abs/1612.07182), ICLR 2017
+
+
+[Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf), NIPS 2016.
+
+[Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf), NIPS 2016.
+
+[The Emergence of Compositional Structures in Perceptually Grounded Language Games](https://www.cs.utexas.edu/~kuipers/readings/Vogt-aij-05.pdf), AI 2005
 
 ### Commonsense Reasoning
 
