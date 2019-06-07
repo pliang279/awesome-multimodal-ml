@@ -39,9 +39,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language and Visual QA
 
-[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [code](https://visualqa.org/)
+[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
 
-[Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847), EMNLP 2016 [code](https://github.com/akirafukui/vqa-mcb)
+[Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847), EMNLP 2016 [[code]](https://github.com/akirafukui/vqa-mcb)
 
 ### Language Grounding in QA
 
@@ -51,7 +51,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language Grouding in Navigation
 
-[Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [code](https://embodiedqa.org/)
+[Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
 ### Multi-agent Communication
 
