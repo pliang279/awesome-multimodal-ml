@@ -95,11 +95,19 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Multimodal Dialog
 
-[Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017 [[code]](https://github.com/batra-mlp-lab/visdial)
-
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://www.aclweb.org/anthology/N19-1058), NAACL 2019 [[code]](https://github.com/satwikkottur/clevr-dialog)
 
+[Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017 [[code]](https://github.com/batra-mlp-lab/visdial)
+
 ### Language and Audio
+
+[Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654), ICLR 2018
+
+[Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947), NeurIPS 2017
+
+[Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825), ICML 2017
+
+[Text-to-Speech Synthesis](https://dl.acm.org/citation.cfm?id=1592988)
 
 ### Video-based Activity Recognition
 
