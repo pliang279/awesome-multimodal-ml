@@ -157,6 +157,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://www.aclweb.org/anthology/N19-1058), NAACL 2019 [[code]](https://github.com/satwikkottur/clevr-dialog)
 
+[Dialog-based Interactive Image Retrieval](https://arxiv.org/abs/1805.00145), NeurIPS 2018 [[code]](https://github.com/XiaoxiaoGuo/fashion-retrieval)
+
 [Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017 [[code]](https://github.com/batra-mlp-lab/visdial)
 
 ### Language and Audio
