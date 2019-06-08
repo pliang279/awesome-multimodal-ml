@@ -35,6 +35,12 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Unsupervised Learning
 
+### Language Models
+
+[Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
+
+[Multimodal Neural Language Models](http://proceedings.mlr.press/v32/kiros14.html), ICML 2014
+
 ## Applications
 
 ### Language and Visual QA
