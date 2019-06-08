@@ -35,7 +35,15 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Generative Learning
 
+[Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [[code]](https://github.com/pliang279/factorized/)
+
+[Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335), NeurIPS 2018 [[code]](https://github.com/mhw32/multimodal-vae-public)
+
+[Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014 
+
 ### Semi-supervised Learning
+
+[Multimodal Semi-supervised Learning for Image Classification](https://ieeexplore.ieee.org/abstract/document/5540120), CVPR 2010
 
 ### Self-supervised Learning
 
