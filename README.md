@@ -31,6 +31,12 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Knowledge Bases
 
+[MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485), ESWC 2019
+
+[Embedding Multimodal Relational Data for Knowledge Base Completion](https://arxiv.org/abs/1809.01341), EMNLP 2018
+
+[Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs](https://arxiv.org/abs/1709.02314), AKBC 2019 
+
 ### Intepretable Learning
 
 [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/abs/1802.08129), CVPR 2018
