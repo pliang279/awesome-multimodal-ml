@@ -27,6 +27,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Graphs
 
+[Order-Embeddings of Images and Language](https://arxiv.org/abs/1511.06361), ICLR 2016 [[code]](https://github.com/ivendrov/order-embedding)
+
 ### Knowledge Bases
 
 ### Intepretable Learning
@@ -68,6 +70,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 ### Language and Visual QA
 
 [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://arxiv.org/abs/1809.00812), EMNLP 2018 [[code]](https://hucvl.github.io/recipeqa/)
+
+[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998), CVPR 2018 [[code]](https://github.com/facebookresearch/pythia)
 
 [Stacked Latent Attention for Multimodal Reasoning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fan_Stacked_Latent_Attention_CVPR_2018_paper.pdf), CVPR 2018
 
@@ -171,11 +175,23 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Media Description
 
+[Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
+
 [Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [[code]](https://allenai.org/plato/charades/) 
 
 [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
 
+[Review Networks for Caption Generation](https://arxiv.org/abs/1605.07912), NeurIPS 2016 [[code]](https://github.com/kimiyoung/review_net)
+
 [Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding](https://arxiv.org/abs/1604.01753), ECCV 2016 [[code]](https://allenai.org/plato/charades/)
+
+[Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647), TPAMI 2016 [[code]](https://github.com/tensorflow/models/tree/master/research/im2txt)
+
+[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), ICML 2015 [[code]](https://github.com/kelvinxu/arctic-captions)
+
+[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306v2), CVPR 2015 [[code]](https://github.com/karpathy/neuraltalk2)
+
+[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), CVPR 2015 [[code]](https://github.com/karpathy/neuraltalk2)
 
 [A Dataset for Movie Description](https://arxiv.org/abs/1501.02530), CVPR 2015 [[code]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/)
 
