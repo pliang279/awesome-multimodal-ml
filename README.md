@@ -54,7 +54,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/abs/1802.08129), CVPR 2018
 
-### Transfer Learning
+[Do Explanations make VQA Models more Predictable to a Human?](https://arxiv.org/abs/1810.12366), EMNLP 2016 
+
+[Towards Transparent AI Systems: Interpreting Visual Question Answering Models](https://arxiv.org/abs/1608.08974), ICML Workshop on Visualization for Deep Learning 2016
 
 ### Generative Learning
 
