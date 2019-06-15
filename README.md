@@ -198,6 +198,18 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Text-to-Speech Synthesis](https://dl.acm.org/citation.cfm?id=1592988)
 
+### Audio and Visual
+
+[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), arXiv 2019
+
+[Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019
+
+[Disjoint Mapping Network for Cross-modal Matching of Voices and Faces](https://arxiv.org/abs/1807.04836), ICLR 2019
+
+[Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195), ICASSP 2019
+
+[Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018
+
 ### Video-based Activity Recognition
 
 [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf) [[code]](https://github.com/malmaud/whats_cookin)
