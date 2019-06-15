@@ -297,6 +297,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [CMU 10-808, Language Grounding to Vision and Control](https://katefvision.github.io/LanguageGrounding/)
 
-[MIT 6.882, Embodied Intelligence](https://phillipi.github.io/6.882/) 
+[MIT 6.882, Embodied Intelligence](https://phillipi.github.io/6.882/)
+
+[Georgia Tech CS 8803, Vision and Language](http://www.prism.gatech.edu/~arjun9/CS8803_CVL_Fall17/)
 
 [Virginia Tech CS 6501-004, Vision & Language](http://www.cs.virginia.edu/~vicente/vislang/)
