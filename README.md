@@ -20,6 +20,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [DeViSE: A Deep Visual-Semantic Embedding Model
 ](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model), NeurIPS 2013
 
+[Multimodal Deep Learning](https://dl.acm.org/citation.cfm?id=3104569), ICML 2011
+
 ### Multimodal Fusion
 
 [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496), CVPR 2019
