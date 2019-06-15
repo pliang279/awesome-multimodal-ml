@@ -11,9 +11,17 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ## Core Areas
 
+### Representation Learning
+
+[Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [[code]](https://github.com/pliang279/factorized/)
+
+[Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014
+
 ### Multimodal Fusion
 
 [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496), CVPR 2019
+
+[The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584), ICLR 2019
 
 [Efficient Low-rank Multimodal Fusion with Modality-Specific Factors](https://arxiv.org/abs/1806.00064), ACL 2018 [[code]](https://github.com/Justin1904/Low-rank-Multimodal-Fusion)
 
@@ -47,11 +55,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Generative Learning
 
-[Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [[code]](https://github.com/pliang279/factorized/)
-
 [Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335), NeurIPS 2018 [[code]](https://github.com/mhw32/multimodal-vae-public)
-
-[Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014 
 
 ### Semi-supervised Learning
 
@@ -76,6 +80,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 ## Applications
 
 ### Language and Visual QA
+
+[Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864), ICML 2019
+
+[Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338), NeurIPS 2018
 
 [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://arxiv.org/abs/1809.00812), EMNLP 2018 [[code]](https://hucvl.github.io/recipeqa/)
 
@@ -160,6 +168,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830), CVPR 2018 [[code]](https://visualcommonsense.com/)
 
 ### Multimodal Reinforcement Learning
+
+[Embodied Multimodal Multitask Learning](https://arxiv.org/abs/1902.01385), arXiv 2019
 
 [Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog](https://arxiv.org/abs/1805.03257), SIGDIAL 2018
 
