@@ -74,8 +74,6 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Dynamics : Self-supervised Learning in Perceptual and Motor Systems](https://dl.acm.org/citation.cfm?id=1269207), 2016
 
-### Unsupervised Learning
-
 ### Language Models
 
 [Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
@@ -210,10 +208,6 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018
 
-### Video-based Activity Recognition
-
-[What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf) [[code]](https://github.com/malmaud/whats_cookin)
-
 ### Media Description
 
 [Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
@@ -235,6 +229,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), CVPR 2015 [[code]](https://github.com/karpathy/neuraltalk2)
 
 [A Dataset for Movie Description](https://arxiv.org/abs/1501.02530), CVPR 2015 [[code]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/)
+
+[What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf), NAACL 2015 [[code]](https://github.com/malmaud/whats_cookin)
 
 [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312), ECCV 2014 [[code]](http://cocodataset.org/#home)
 
