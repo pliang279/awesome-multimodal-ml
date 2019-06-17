@@ -264,7 +264,11 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors](https://ieeexplore.ieee.org/document/7763752), TAC 2018
 
-### Self-driving Cars
+[SimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support](https://dl.acm.org/citation.cfm?id=2617388.2617415), AAMAS 2014
+
+[Dyadic Behavior Analysis in Depression Severity Assessment Interviews](https://dl.acm.org/citation.cfm?doid=2663204.2663238), ICMI 2014
+
+[Audiovisual Behavior Descriptors for Depression Assessment](https://dl.acm.org/citation.cfm?doid=2522848.2522886), ICMI 2013
 
 ### Robotics
 
