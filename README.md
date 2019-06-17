@@ -264,6 +264,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors](https://ieeexplore.ieee.org/document/7763752), TAC 2018
 
+[Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction](https://arxiv.org/abs/1803.04837), AAAI 2018
+
+[Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data](https://arxiv.org/abs/1709.08073), ML4H 2017
+
 [SimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support](https://dl.acm.org/citation.cfm?id=2617388.2617415), AAMAS 2014
 
 [Dyadic Behavior Analysis in Depression Severity Assessment Interviews](https://dl.acm.org/citation.cfm?doid=2663204.2663238), ICMI 2014
@@ -328,6 +332,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Tutorials
 [Connecting Language and Vision to Actions](https://lvatutorial.github.io/), ACL 2018
+
+[Machine Learning for Clinicians: Advances for Multi-Modal Health Data](https://www.michaelchughes.com/mlhc2018_tutorial.html), MLHC 2018
 
 [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/), ACL 2017, CVPR 2016, ICMI 2016
 
