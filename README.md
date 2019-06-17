@@ -262,6 +262,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Healthcare
 
+[Multimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors](https://ieeexplore.ieee.org/document/7763752), TAC 2018
+
 ### Self-driving Cars
 
 ### Robotics
