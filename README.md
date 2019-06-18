@@ -134,6 +134,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language Grounding in Vision
 
+[Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019
+
+[Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
+
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
