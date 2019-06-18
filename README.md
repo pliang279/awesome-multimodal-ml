@@ -335,6 +335,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Interpretability and Robustness in Audio, Speech, and Language](https://irasl.gitlab.io/), NeurIPS 2018
 
+[Multimodal Robot Perception](https://natanaso.github.io/rcw-icra18/), ICRA 2018
+
 [WMT18: Shared Task on Multimodal Machine Translation](http://www.statmt.org/wmt18/multimodal-task.html), EMNLP 2018
 
 [Shortcomings in Vision and Language](https://sites.google.com/view/sivl/), ECCV 2018
