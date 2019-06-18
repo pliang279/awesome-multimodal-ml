@@ -242,6 +242,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195), ICASSP 2019
 
+[Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input](https://arxiv.org/abs/1804.01452), ECCV 2018
+
 [Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018
 
 [Unsupervised Learning of Spoken Language with Visual Context](https://papers.nips.cc/paper/6186-unsupervised-learning-of-spoken-language-with-visual-context.pdf), NeurIPS 2016
