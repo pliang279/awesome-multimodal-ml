@@ -78,6 +78,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models](https://arxiv.org/abs/1711.06420), CVPR 2018
 
+[The Multi-Entity Variational Autoencoder](http://charlienash.github.io/assets/docs/mevae2017.pdf), NeurIPS 2017
+
 ### Semi-supervised Learning
 
 [Semi-supervised Vision-language Mapping via Variational Learning](https://ieeexplore.ieee.org/document/7989160), ICRA 2017
