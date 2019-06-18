@@ -46,6 +46,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf), ICML 2015
 
+[Multimodal Alignment of Videos](https://dl.acm.org/citation.cfm?id=2654862), MM 2014
+
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
 ### Knowledge Graphs and Knowledge Bases
