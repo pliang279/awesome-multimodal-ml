@@ -132,6 +132,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language Grouding in Navigation
 
+[Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation](https://arxiv.org/abs/1906.00347), ACL 2019
+
 [Tactical Rewind: Self-Correction via Backtracking in Vision-And-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019
 
 [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/abs/1811.10092), CVPR 2019
