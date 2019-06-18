@@ -21,6 +21,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [[code]](https://github.com/pliang279/factorized/)
 
+[A Probabilistic Framework for Multi-view Feature Learning with Many-to-many Associations via Neural Networks](https://arxiv.org/abs/1802.04630), ICML 2018
+
+[Do Neural Network Cross-Modal Mappings Really Bridge Modalities?](https://aclweb.org/anthology/P18-2074), ACL 2018
+
 [Deep Multimodal Representation Learning from Temporal Data](https://arxiv.org/abs/1704.03152), CVPR 2017
 
 [Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014
@@ -72,7 +76,15 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335), NeurIPS 2018 [[code]](https://github.com/mhw32/multimodal-vae-public)
 
+[Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models](https://arxiv.org/abs/1711.06420), CVPR 2018
+
 ### Semi-supervised Learning
+
+[Semi-supervised Vision-language Mapping via Variational Learning](https://ieeexplore.ieee.org/document/7989160), ICRA 2017
+
+[Semi-supervised Multimodal Hashing](https://arxiv.org/abs/1712.03404), arXiv 2017
+
+[Semi-Supervised Multimodal Deep Learning for RGB-D Object Recognition](https://www.ijcai.org/Proceedings/16/Papers/473.pdf), IJCAI 2016
 
 [Multimodal Semi-supervised Learning for Image Classification](https://ieeexplore.ieee.org/abstract/document/5540120), CVPR 2010
 
@@ -127,6 +139,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
 [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
+
+[Localizing Moments in Video with Natural Language](https://arxiv.org/abs/1708.01641), ICCV 2017
 
 [What are you talking about? Text-to-Image Coreference](https://ieeexplore.ieee.org/abstract/document/6909850/), CVPR 2014
 
@@ -186,7 +200,11 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Commonsense Reasoning
 
-[From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830), CVPR 2018 [[code]](https://visualcommonsense.com/)
+[SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728), arXiv 2019
+
+[From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830), CVPR 2019 [[code]](https://visualcommonsense.com/)
+
+[CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937), NAACL 2019
 
 ### Multimodal Reinforcement Learning
 
@@ -225,6 +243,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195), ICASSP 2019
 
 [Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018
+
+[Unsupervised Learning of Spoken Language with Visual Context](https://papers.nips.cc/paper/6186-unsupervised-learning-of-spoken-language-with-visual-context.pdf), NeurIPS 2016
+
+[SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
 
 ### Media Description
 
