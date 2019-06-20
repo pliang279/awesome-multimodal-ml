@@ -232,7 +232,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language and Audio
 
-[Audio-Linguistic Embeddings for Spoken Sentences](https://arxiv.org/abs/1902.07817), ICLR 2019
+[Audio Caption: Listen and Tell](https://arxiv.org/abs/1902.09254), ICASSP 2019
+
+[Audio-Linguistic Embeddings for Spoken Sentences](https://arxiv.org/abs/1902.07817), ICASSP 2019
 
 [From Semi-supervised to Almost-unsupervised Speech Recognition with Very-low Resource by Jointly Learning Phonetic Structures from Audio and Text Embeddings](https://arxiv.org/abs/1904.05078), arXiv 2019
 
