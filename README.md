@@ -343,6 +343,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 # Workshops
 
+[Beyond Vision and Language: Integrating Real-World Knowledge](https://www.lantern.uni-saarland.de/), EMNLP 2019
+
 [The How2 Challenge: New Tasks for Vision & Language](https://srvk.github.io/how2-challenge/), ICML 2019
 
 [Visual Question Answering and Dialog](https://visualqa.org/workshop.html), CVPR 2019, CVPR 2017
