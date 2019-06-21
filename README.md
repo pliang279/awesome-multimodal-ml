@@ -110,6 +110,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language and Visual QA
 
+[GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/abs/1902.09506), CVPR 2019 [[code]](https://cs.stanford.edu/people/dorarad/gqa/)
+
+[OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge](https://arxiv.org/abs/1906.00067), CVPR 2019 [[code]](http://okvqa.allenai.org/)
+
 [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487), CVPR 2019 [[code]](https://github.com/Cadene/murel.bootstrap.pytorch)
 
 [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/html/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.html), CVPR 2019 [[code]](https://github.com/A2Zadeh/Social-IQ)
@@ -156,7 +160,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation](https://arxiv.org/abs/1906.00347), ACL 2019
 
-[Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments](https://arxiv.org/abs/1811.12354), CVPR 2019
+[Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments](https://arxiv.org/abs/1811.12354), CVPR 2019 [[code]](https://github.com/lil-lab/touchdown)
 
 [Tactical Rewind: Self-Correction via Backtracking in Vision-And-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019
 
@@ -170,7 +174,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268), NAACL 2019 [[code]](https://github.com/airsplay/R2R-EnvDrop)
 
-[Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786), EMNLP 2018
+[Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786), EMNLP 2018 [[code]](https://github.com/lil-lab/ciff)
 
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
@@ -317,6 +321,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Decoding Children’s Social Behavior](http://www.cbi.gatech.edu/mmdb/docs/mmdb_paper.pdf), CVPR 2013 [[code]](http://www.cbi.gatech.edu/mmdb/)
 
 ### Healthcare
+
+[Leveraging Medical Visual Question Answering with Supporting Facts](https://arxiv.org/abs/1905.12008), arXiv 2019
 
 [Unsupervised Multimodal Representation Learning across Medical Images and Reports](https://arxiv.org/abs/1811.08615), ML4H 2018
 
