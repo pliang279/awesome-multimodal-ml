@@ -44,6 +44,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Multimodal Alignment
 
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019
+
 [On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf), ICML 2015
 
 [Multimodal Alignment of Videos](https://dl.acm.org/citation.cfm?id=2654862), MM 2014
@@ -142,6 +144,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
 
+[Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
+
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
@@ -165,6 +169,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019 [[code]](https://github.com/Kelym/FAST)
 
 [Self-Monitoring Navigation Agent via Auxiliary Progress Estimation](https://arxiv.org/abs/1901.03035), ICLR 2019 [[code]](https://github.com/chihyaoma/selfmonitoring-agent)
+
+[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ICLR 2019
+
+[Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos](https://arxiv.org/abs/1901.06829), AAAI 2019
 
 [Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268), NAACL 2019 [[code]](https://github.com/airsplay/R2R-EnvDrop)
 
@@ -265,6 +273,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input](https://arxiv.org/abs/1804.01452), ECCV 2018 [[code]](https://github.com/LiqunChen0606/Jointly-Discovering-Visual-Objects-and-Spoken-Words)
 
 [Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018 [[code]](https://github.com/a-nagrani/SVHF-Net)
+
+[Learning to Separate Object Sounds by Watching Unlabeled Video](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w49/Gao_Learning_to_Separate_CVPR_2018_paper.pdf), CVPR 2018
+
+[Deep Audio-Visual Speech Recognition](https://arxiv.org/abs/1809.02108), IEEE TPAMI 2018
 
 [Unsupervised Learning of Spoken Language with Visual Context](https://papers.nips.cc/paper/6186-unsupervised-learning-of-spoken-language-with-visual-context.pdf), NeurIPS 2016
 
