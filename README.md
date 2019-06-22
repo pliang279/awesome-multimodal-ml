@@ -44,7 +44,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Memory Fusion Network for Multi-view Sequential Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17341/16122), AAAI 2018 [[code]](https://github.com/pliang279/MFN)
 
-[Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/pdf/1707.07250.pdf), EMNLP 2017
+[Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/pdf/1707.07250.pdf), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
 
 ### Multimodal Alignment
