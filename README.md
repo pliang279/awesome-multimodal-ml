@@ -181,6 +181,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), arXiv 2019 [[code]](https://www.minirts.net/)
 
+[Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation](https://arxiv.org/abs/1905.12255), ACL 2019
+
 [Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation](https://arxiv.org/abs/1906.00347), ACL 2019
 
 [Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments](https://arxiv.org/abs/1811.12354), CVPR 2019 [[code]](https://github.com/lil-lab/touchdown)
@@ -270,6 +272,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017 [[code]](https://github.com/batra-mlp-lab/visdial)
 
 ### Language and Audio
+
+[Lattice Transformer for Speech Translation](https://arxiv.org/abs/1906.05551), ACL 2019
+
+[Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://arxiv.org/abs/1906.01199), ACL 2019
 
 [Audio Caption: Listen and Tell](https://arxiv.org/abs/1902.09254), ICASSP 2019
 
