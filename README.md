@@ -297,6 +297,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), arXiv 2019
 
+[Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160), CVPR 2019 [[code]](http://people.eecs.berkeley.edu/~shiry/speech2gesture)
+
 [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
 
 [Disjoint Mapping Network for Cross-modal Matching of Voices and Faces](https://arxiv.org/abs/1807.04836), ICLR 2019
