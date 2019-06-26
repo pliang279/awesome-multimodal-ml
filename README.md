@@ -210,6 +210,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786), EMNLP 2018 [[code]](https://github.com/lil-lab/ciff)
 
+[Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments](https://arxiv.org/abs/1711.07280), CVPR 2018 [[code]](https://bringmeaspoon.org/)
+
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
 
 ### Multimodal Machine Translation
@@ -269,6 +271,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508), ACL 2019 [[code]](http://affective-meld.github.io/)
 
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://www.aclweb.org/anthology/N19-1058), NAACL 2019 [[code]](https://github.com/satwikkottur/clevr-dialog)
+
+[Talk the Walk: Navigating New York City through Grounded Dialogue](https://arxiv.org/abs/1807.03367), arXiv 2018
 
 [Dialog-based Interactive Image Retrieval](https://arxiv.org/abs/1805.00145), NeurIPS 2018 [[code]](https://github.com/XiaoxiaoGuo/fashion-retrieval)
 
