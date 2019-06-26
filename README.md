@@ -195,6 +195,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019 [[code]](https://github.com/Kelym/FAST)
 
+[Multi-modal Discriminative Model for Vision-and-Language Navigation](https://www.aclweb.org/anthology/W19-1605), NAACL SpLU-RoboNLP Workshop 2019
+
 [Self-Monitoring Navigation Agent via Auxiliary Progress Estimation](https://arxiv.org/abs/1901.03035), ICLR 2019 [[code]](https://github.com/chihyaoma/selfmonitoring-agent)
 
 [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ICLR 2019
