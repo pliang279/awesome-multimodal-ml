@@ -372,7 +372,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Collecting Large, Richly Annotated Facial-Expression Databases from Movies](http://users.cecs.anu.edu.au/%7Eadhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf), IEEE Multimedia 2012 [[code]](https://cs.anu.edu.au/few/AFEW.html)
 
-[The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf) [[code]](https://sail.usc.edu/iemocap/), 2008
+[The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database](https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf), 2008 [[code]](https://sail.usc.edu/iemocap/)
 
 ### Healthcare
 
