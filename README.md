@@ -35,7 +35,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Combining Language and Vision with a Multimodal Skip-gram Model](https://www.aclweb.org/anthology/N15-1016), NAACL 2015
 
-[Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](https://arxiv.org/pdf/1406.5679.pdf), NIPS 2014
+[Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](https://arxiv.org/abs/1406.5679), NIPS 2014
 
 [Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014
 
@@ -55,7 +55,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Memory Fusion Network for Multi-view Sequential Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17341/16122), AAAI 2018 [[code]](https://github.com/pliang279/MFN)
 
-[Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/pdf/1707.07250.pdf), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
+[Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
 [Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
 
@@ -129,9 +129,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
 
-[Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/pdf/1711.03483.pdf), AAAI 2018
+[Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/abs/1711.03483), AAAI 2018
 
-[Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes] (https://arxiv.org/pdf/1511.07067.pdf), CVPR 2016
+[Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes] (https://arxiv.org/abs/1511.07067), CVPR 2016
 
 [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](http://proceedings.mlr.press/v32/kiros14.html), ICML 2014 [[code]](https://github.com/ryankiros/visual-semantic-embedding)
 
@@ -145,7 +145,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Zero-Shot Learning
 
-[Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/pdf/1703.04394.pdf), CVPR 2017
+[Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/abs/1703.04394), CVPR 2017
 
 [Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
 
@@ -163,7 +163,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864), ICML 2019 [[code]](https://github.com/kdexd/probnmn-clevr)
 
-[Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/pdf/1802.05766.pdf), ICLR 2018, [[code]](https://github.com/Cyanogenoid/vqa-counting)
+[Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/abs/1802.05766), ICLR 2018, [[code]](https://github.com/Cyanogenoid/vqa-counting)
 
 [Overcoming Language Priors in Visual Question Answering with Adversarial Regularization](https://arxiv.org/abs/1810.03649), NeurIPS 2018
 
@@ -181,7 +181,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526), ICCV 2017 [[code]](https://github.com/ronghanghu/n2nmn)
 
-[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890.pdf), CVPR 2017 [[code]](https://github.com/facebookresearch/clevr-iep) [[dataset generation]](https://github.com/facebookresearch/clevr-dataset-gen)
+[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890), CVPR 2017 [[code]](https://github.com/facebookresearch/clevr-iep) [[dataset generation]](https://github.com/facebookresearch/clevr-dataset-gen)
 
 [Are You Smarter Than A Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension](https://ieeexplore.ieee.org/document/8100054/), CVPR 2017 [[code]](http://vuchallenge.org/tqa.html)
 
@@ -199,7 +199,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
 
-[Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/pdf/1901.06595.pdf), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
+[Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
 
 [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
 
@@ -274,17 +274,17 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW), ICLR 2018 [[code]](https://github.com/ASAPPinc/emergent_comms_negotiation)
 
-[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf), AAAI 2018
+[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908), AAAI 2018
 
 [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192), NeurIPS 2017
 
 [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502), EMNLP 2017 [[code1]](https://github.com/batra-mlp-lab/lang-emerge) [[code2]](https://github.com/kdexd/lang-emerge-parlai)
 
-[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf), ICCV 2017 [code](https://github.com/batra-mlp-lab/visdial-rl)
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585), ICCV 2017 [code](https://github.com/batra-mlp-lab/visdial-rl)
 
-[Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/abs/1612.07182), ICLR 2017
+[Multi-agent Cooperation and the Emergence of (natural) Language](https://arxiv.org/abs/1612.07182), ICLR 2017
 
-[Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf), NIPS 2016.
+[Learning to Communicate with Deep Multi-agent Reinforcement Learning](https://arxiv.org/abs/1605.06676), NIPS 2016.
 
 [Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf), NIPS 2016.
 
@@ -338,7 +338,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [From Audio to Semantics: Approaches To End-to-end Spoken Language Understanding](https://arxiv.org/abs/1809.09190), arXiv 2018
 
-[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
+[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
 [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654), ICLR 2018
 
@@ -378,7 +378,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547), CVPR 2019 [[code]](https://github.com/yaohungt/GSTEG_CVPR_2019)
 
-[Joint Event Detection and Description in Continuous Video Streams](https://arxiv.org/pdf/1802.10250.pdf), WACVW 2019
+[Joint Event Detection and Description in Continuous Video Streams](https://arxiv.org/abs/1802.10250), WACVW 2019
 
 [Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
 
@@ -404,23 +404,23 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [A Dataset for Movie Description](https://arxiv.org/abs/1501.02530), CVPR 2015 [[code]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/)
 
-[What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf), NAACL 2015 [[code]](https://github.com/malmaud/whats_cookin)
+[What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/abs/1503.01558), NAACL 2015 [[code]](https://github.com/malmaud/whats_cookin)
 
 [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312), ECCV 2014 [[code]](http://cocodataset.org/#home)
 
 ### Vision Generation from Text
 
-[Image Generation from Scene Graphs](https://arxiv.org/pdf/1804.01622.pdf), CVPR 2018
+[Image Generation from Scene Graphs](https://arxiv.org/abs/1804.01622), CVPR 2018
 
-[Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf), NAACL 2018
+[Learning to Color from Language](https://arxiv.org/abs/1804.06026), NAACL 2018
 
-[Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), ICML 2016
+[Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396), ICML 2016
 
 ### Affect Recognition and Multimodal Language
 
-[Towards Multimodal Sarcasm Detection (An Obviously_Perfect Paper)](https://arxiv.org/pdf/1906.01815.pdf), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
+[Towards Multimodal Sarcasm Detection (An Obviously_Perfect Paper)](https://arxiv.org/abs/1906.01815), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
 
-[Multimodal Language Analysis with Recurrent Multistage Fusion](https://arxiv.org/pdf/1808.03920.pdf)
+[Multimodal Language Analysis with Recurrent Multistage Fusion](https://arxiv.org/abs/1808.03920)
 
 [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](http://aclweb.org/anthology/P18-1208), ACL 2018 [[code]](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
@@ -560,10 +560,4 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Georgia Tech CS 8803, Vision and Language](http://www.prism.gatech.edu/~arjun9/CS8803_CVL_Fall17/)
 
 [Virginia Tech CS 6501-004, Vision & Language](http://www.cs.virginia.edu/~vicente/vislang/)
-
-# Software and Tools
-
-[OpenFace 2.0: Facial Behavior Analysis Toolkit](https://github.com/TadasBaltrusaitis/OpenFace)
-
-[CMU Multimodal SDK](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
