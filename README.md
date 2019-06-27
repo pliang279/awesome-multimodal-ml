@@ -500,3 +500,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Georgia Tech CS 8803, Vision and Language](http://www.prism.gatech.edu/~arjun9/CS8803_CVL_Fall17/)
 
 [Virginia Tech CS 6501-004, Vision & Language](http://www.cs.virginia.edu/~vicente/vislang/)
+
+# Software and Tools
+
+[OpenFace 2.0: Facial Behavior Analysis Toolkit](https://github.com/TadasBaltrusaitis/OpenFace)
+
+[CMU Multimodal SDK](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+
