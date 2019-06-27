@@ -7,6 +7,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406), TPAMI 2018
 
+[Guest Editorial: Image and Language Understanding](https://link.springer.com/article/10.1007/s11263-017-0993-y), IJCV 2017
+
 [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538), TPAMI 2013
 
 ## Core Areas
@@ -29,10 +31,17 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Deep Multimodal Representation Learning from Temporal Data](https://arxiv.org/abs/1704.03152), CVPR 2017
 
+[Is an Image Worth More than a Thousand Words? On the Fine-Grain Semantic Differences between Visual and Linguistic Representations](https://www.aclweb.org/anthology/C16-1264), COLING 2016
+
+[Combining Language and Vision with a Multimodal Skip-gram Model](https://www.aclweb.org/anthology/N15-1016), NAACL 2015
+
+[Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](https://arxiv.org/pdf/1406.5679.pdf), NIPS 2014
+
 [Multimodal Learning with Deep Boltzmann Machines](https://dl.acm.org/citation.cfm?id=2697059), JMLR 2014
 
-[DeViSE: A Deep Visual-Semantic Embedding Model
-](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model), NeurIPS 2013
+[Learning Grounded Meaning Representations with Autoencoders](https://www.aclweb.org/anthology/P14-1068), ACL 2014
+
+[DeViSE: A Deep Visual-Semantic Embedding Model](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model), NeurIPS 2013
 
 [Multimodal Deep Learning](https://dl.acm.org/citation.cfm?id=3104569), ICML 2011
 
@@ -48,13 +57,19 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/pdf/1707.07250.pdf), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
+[Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
+
 ### Multimodal Alignment
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [[code]](https://github.com/yaohungt/Multimodal-Transformer)
 
 [Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019
 
+[See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
+
 [On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf), ICML 2015
+
+[Unsupervised Alignment of Natural Language Instructions with Video Segments](https://dl.acm.org/citation.cfm?id=2892753.2892769), AAAI 2014
 
 [Multimodal Alignment of Videos](https://dl.acm.org/citation.cfm?id=2654862), MM 2014
 
@@ -114,6 +129,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
 
+[Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/pdf/1711.03483.pdf), AAAI 2018
+
+[Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes] (https://arxiv.org/pdf/1511.07067.pdf), CVPR 2016
+
 [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](http://proceedings.mlr.press/v32/kiros14.html), ICML 2014 [[code]](https://github.com/ryankiros/visual-semantic-embedding)
 
 ### Adversarial Attacks
@@ -123,6 +142,12 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](https://arxiv.org/abs/1712.02051), ACL 2018 [[code]](https://github.com/huanzhang12/ImageCaptioningAttack)
 
 [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/abs/1709.08693), CVPR 2018
+
+### Zero-Shot Learning
+
+[Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/pdf/1703.04394.pdf), CVPR 2017
+
+[Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
 
 ## Applications
 
@@ -138,11 +163,15 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864), ICML 2019 [[code]](https://github.com/kdexd/probnmn-clevr)
 
+[Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/pdf/1802.05766.pdf), ICLR 2018, [[code]](https://github.com/Cyanogenoid/vqa-counting)
+
 [Overcoming Language Priors in Visual Question Answering with Adversarial Regularization](https://arxiv.org/abs/1810.03649), NeurIPS 2018
 
 [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338), NeurIPS 2018 [[code]](https://github.com/kexinyi/ns-vqa)
 
 [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://arxiv.org/abs/1809.00812), EMNLP 2018 [[code]](https://hucvl.github.io/recipeqa/)
+
+[TVQA: Localized, Compositional Video Question Answering](https://www.aclweb.org/anthology/D18-1167), EMNLP 2018 [[code]](https://github.com/jayleicn/TVQA)
 
 [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998), CVPR 2018 [[code]](https://github.com/facebookresearch/pythia)
 
@@ -168,17 +197,27 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
 
+[Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
+
+[Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/pdf/1901.06595.pdf), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
+
 [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
+[Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
+
 [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
 
 [Localizing Moments in Video with Natural Language](https://arxiv.org/abs/1708.01641), ICCV 2017
 
 [What are you talking about? Text-to-Image Coreference](https://ieeexplore.ieee.org/abstract/document/6909850/), CVPR 2014
+
+[Grounded Language Learning from Video Described with Sentences](https://www.aclweb.org/anthology/P13-1006), ACL 2013
+
+[Grounded Compositional Semantics for Finding and Describing Images with Sentences](https://nlp.stanford.edu/~socherr/SocherKarpathyLeManningNg_TACL2013.pdf), TACL 2013
 
 ### Language Grouding in Navigation
 
@@ -213,6 +252,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments](https://arxiv.org/abs/1711.07280), CVPR 2018 [[code]](https://bringmeaspoon.org/)
 
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
+
 
 ### Multimodal Machine Translation
 
@@ -266,6 +306,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog](https://arxiv.org/abs/1805.03257), SIGDIAL 2018
 
+[Mapping Instructions and Visual Observations to Actions with Reinforcement Learning](https://www.cs.cornell.edu/~dkm/papers/mla-emnlp.2017.pdf), EMNLP 2017
+
+[Reinforcement Learning for Mapping Instructions to Actions](https://people.csail.mit.edu/regina/my_papers/RL.pdf), ACL 2009
+
 ### Multimodal Dialog
 
 [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508), ACL 2019 [[code]](http://affective-meld.github.io/)
@@ -293,6 +337,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [From Semi-supervised to Almost-unsupervised Speech Recognition with Very-low Resource by Jointly Learning Phonetic Structures from Audio and Text Embeddings](https://arxiv.org/abs/1904.05078), arXiv 2019
 
 [From Audio to Semantics: Approaches To End-to-end Spoken Language Understanding](https://arxiv.org/abs/1809.09190), arXiv 2018
+
+[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
 [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654), ICLR 2018
 
@@ -322,6 +368,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Deep Audio-Visual Speech Recognition](https://arxiv.org/abs/1809.02108), IEEE TPAMI 2018
 
+[Look, Listen and Learn](http://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf), ICCV 2017
+
 [Unsupervised Learning of Spoken Language with Visual Context](https://papers.nips.cc/paper/6186-unsupervised-learning-of-spoken-language-with-visual-context.pdf), NeurIPS 2016
 
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
@@ -330,6 +378,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547), CVPR 2019 [[code]](https://github.com/yaohungt/GSTEG_CVPR_2019)
 
+[Joint Event Detection and Description in Continuous Video Streams](https://arxiv.org/pdf/1802.10250.pdf), WACVW 2019
+
 [Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
 
 [Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [[code]](https://allenai.org/plato/charades/) 
@@ -337,6 +387,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640), CVPR 2018 [[code]](http://github.com/rowanz/neural-motifs)
 
 [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
+
+[DenseCap: Fully Convolutional Localization Networks for Dense Captioning](https://cs.stanford.edu/people/karpathy/densecap/), CVPR 2016
 
 [Review Networks for Caption Generation](https://arxiv.org/abs/1605.07912), NeurIPS 2016 [[code]](https://github.com/kimiyoung/review_net)
 
@@ -355,6 +407,14 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://arxiv.org/pdf/1503.01558.pdf), NAACL 2015 [[code]](https://github.com/malmaud/whats_cookin)
 
 [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312), ECCV 2014 [[code]](http://cocodataset.org/#home)
+
+### Vision Generation from Text
+
+[Image Generation from Scene Graphs](https://arxiv.org/pdf/1804.01622.pdf), CVPR 2018
+
+[Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf), NAACL 2018
+
+[Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), ICML 2016
 
 ### Affect Recognition and Multimodal Language
 
