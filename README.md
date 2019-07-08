@@ -203,7 +203,11 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
 
+[SCAN: Learning Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389), ICLR 2018
+
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
+
+[Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
@@ -247,11 +251,15 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268), NAACL 2019 [[code]](https://github.com/airsplay/R2R-EnvDrop)
 
+[Attention Based Natural Language Grounding by Navigating Virtual Environment](https://arxiv.org/abs/1804.08454), IEEE WACV 2019
+
 [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786), EMNLP 2018 [[code]](https://github.com/lil-lab/ciff)
 
 [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments](https://arxiv.org/abs/1711.07280), CVPR 2018 [[code]](https://bringmeaspoon.org/)
 
 [Embodied Question Answering](https://arxiv.org/abs/1711.11543), CVPR 2018 [[code]](https://embodiedqa.org/)
+
+[Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation](https://arxiv.org/abs/1803.07729), ECCV 2018
 
 
 ### Multimodal Machine Translation
@@ -356,6 +364,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
 
+[Capture, Learning, and Synthesis of 3D Speaking Styles](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf), CVPR 2019 [[code]](https://github.com/TimoBolkart/voca)
+
 [Disjoint Mapping Network for Cross-modal Matching of Voices and Faces](https://arxiv.org/abs/1807.04836), ICLR 2019
 
 [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195), ICASSP 2019 [[code]](https://imatge-upc.github.io/wav2pix/)
@@ -380,11 +390,19 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Joint Event Detection and Description in Continuous Video Streams](https://arxiv.org/abs/1802.10250), WACVW 2019
 
+[Learning to Compose and Reason with Language Tree Structures for Visual Grounding](https://arxiv.org/abs/1906.01784), TPAMI 2019
+
 [Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
+
+[Grounding Referring Expressions in Images by Variational Context](https://arxiv.org/abs/1712.01892), CVPR 2018
+
+[Video Captioning via Hierarchical Reinforcement Learning](https://arxiv.org/abs/1711.11135), CVPR 2018
 
 [Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [[code]](https://allenai.org/plato/charades/) 
 
 [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640), CVPR 2018 [[code]](http://github.com/rowanz/neural-motifs)
+
+[No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160), ACL 2018
 
 [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
 
