@@ -504,6 +504,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Robotics
 
+[Early Fusion for Goal Directed Robotic Vision](https://arxiv.org/abs/1811.08824), IROS 2019
+
 [Simultaneously Learning Vision and Feature-based Control Policies for Real-world Ball-in-a-Cup](https://arxiv.org/abs/1902.04706), RSS 2019
 
 [Probabilistic Multimodal Modeling for Human-Robot Interaction Tasks](http://www.roboticsproceedings.org/rss15/p47.pdf), RSS 2019
