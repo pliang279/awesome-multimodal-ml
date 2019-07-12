@@ -227,6 +227,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language Grouding in Navigation
 
+[Vision-and-Dialog Navigation](https://arxiv.org/abs/1907.04957), arXiv 2019 [[code]](https://github.com/mmurray/cvdn)
+
 [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), arXiv 2019 [[code]](https://www.minirts.net/)
 
 [Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation](https://arxiv.org/abs/1905.12255), ACL 2019
