@@ -304,6 +304,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922), ICLR 2018 [[code]](https://github.com/facebookresearch/translagent)
 
+[Emergent Communication in a Multi-Modal, Multi-Step Referential Game](https://openreview.net/pdf?id=rJGZq6g0-), ICLR 2018 [[code]](https://github.com/nyu-dl/MultimodalGame)
+
 [Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW), ICLR 2018
 
 [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW), ICLR 2018 [[code]](https://github.com/ASAPPinc/emergent_comms_negotiation)
