@@ -15,7 +15,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Representation Learning
 
-[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), 2019 
+[Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910), arXiv 2019 [[code]](https://github.com/Philip-Bachman/amdim-public)
+
+[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
 
 [Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations](https://arxiv.org/abs/1812.00500), CVPR 2019
 
@@ -225,6 +227,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Language Grouding in Navigation
 
+[Vision-and-Dialog Navigation](https://arxiv.org/abs/1907.04957), arXiv 2019 [[code]](https://github.com/mmurray/cvdn)
+
 [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), arXiv 2019 [[code]](https://www.minirts.net/)
 
 [Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation](https://arxiv.org/abs/1905.12255), ACL 2019
@@ -299,6 +303,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [On the Pitfalls of Measuring Emergent Communication](https://arxiv.org/abs/1903.05168), AAMAS 2019 [[code]](https://github.com/facebookresearch/measuring-emergent-comm)
 
 [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922), ICLR 2018 [[code]](https://github.com/facebookresearch/translagent)
+
+[Emergent Communication in a Multi-Modal, Multi-Step Referential Game](https://openreview.net/pdf?id=rJGZq6g0-), ICLR 2018 [[code]](https://github.com/nyu-dl/MultimodalGame)
 
 [Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW), ICLR 2018
 
@@ -503,6 +509,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Audiovisual Behavior Descriptors for Depression Assessment](https://dl.acm.org/citation.cfm?doid=2522848.2522886), ICMI 2013
 
 ### Robotics
+
+[See, Feel, Act: Hierarchical Learning for Complex Manipulation Skills with Multi-sensory Fusion](https://robotics.sciencemag.org/content/4/26/eaav3123), Science Robotics 2019 
+
+[Early Fusion for Goal Directed Robotic Vision](https://arxiv.org/abs/1811.08824), IROS 2019
 
 [Simultaneously Learning Vision and Feature-based Control Policies for Real-world Ball-in-a-Cup](https://arxiv.org/abs/1902.04706), RSS 2019
 
