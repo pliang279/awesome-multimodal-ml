@@ -270,6 +270,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Multimodal Machine Translation
 
+[VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](https://arxiv.org/abs/1904.03493), ICCV 2019 [[code]](http://vatex.org/main/index.html)
+
 [Latent Variable Model for Multi-modal Translation](https://arxiv.org/pdf/1811.00357), ACL 2019
 
 [Distilling Translations with Visual Awareness](https://arxiv.org/pdf/1906.07701), ACL 2019
