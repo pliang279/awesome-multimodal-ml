@@ -5,6 +5,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ## Survey Papers
 
+[Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), arXiv 2019
+
 [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406), TPAMI 2018
 
 [Guest Editorial: Image and Language Understanding](https://link.springer.com/article/10.1007/s11263-017-0993-y), IJCV 2017
@@ -15,11 +17,17 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Representation Learning
 
+[VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019
+
+[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), arXiv 2019
+
 [OmniNet: A Unified Architecture for Multi-modal Multi-task Learning](https://arxiv.org/abs/1907.07804), arXiv 2019 [[code]](https://github.com/subho406/OmniNet)
 
 [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910), arXiv 2019 [[code]](https://github.com/Philip-Bachman/amdim-public)
 
 [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
+
+[VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
 [Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations](https://arxiv.org/abs/1812.00500), CVPR 2019
 
@@ -78,6 +86,14 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [Multimodal Alignment of Videos](https://dl.acm.org/citation.cfm?id=2654862), MM 2014
 
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
+
+### Missing/Imperfect Modalities
+
+[Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
+
+[Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization](https://arxiv.org/abs/1907.01011), ACL 2019
+
+[Multimodal Deep Learning for Robust RGB-D Object Recognition](https://arxiv.org/abs/1507.06821), IROS 2015
 
 ### Knowledge Graphs and Knowledge Bases
 
