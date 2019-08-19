@@ -29,7 +29,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
-[Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations](https://arxiv.org/abs/1812.00500), CVPR 2019
+[Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf), CVPR 2019
 
 [Multi-Task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/abs/1812.00500), CVPR 2019
 
