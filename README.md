@@ -6,6 +6,13 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
   * [Survey Papers](#survey-papers)
 * [Core Areas](#core-areas)
   * [Representation Learning](#representation-learning)
+  * [Multimodal Fusion](#multimodal-fusion)
+  * [Multimodal Alignment](#multimodal-alignment)
+  * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
+  * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
+  * [Intepretable Learning](#intepretable-learning)
+  * [Generative Learning](#generative-learning)
+  * [Semi-supervised Learning](#semi-supervised-learning)
 
 
 # Research Papers
@@ -102,7 +109,7 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
-### Missing/Imperfect Modalities
+### Missing or Imperfect Modalities
 
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
 
