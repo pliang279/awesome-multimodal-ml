@@ -13,6 +13,21 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
   * [Intepretable Learning](#intepretable-learning)
   * [Generative Learning](#generative-learning)
   * [Semi-supervised Learning](#semi-supervised-learning)
+  * [Self-supervised Learning](#self-supervised-learning)
+  * [Language Models](#language-models)
+  * [Adversarial Attacks](#adversarial-attacks)
+  * [Zero-Shot Learning](#zero-shot-learning)
+* [Applications](#applications)
+  * [Language and Visual QA](#language-and-visual-qa)
+  * [Language Grounding in Vision](#language-grounding-in-vision)
+  * [Language Grouding in Navigation](#language-grouding-in-navigation)
+  * [Multimodal Machine Translation](#multimodal-machine-translation)
+  * [Multi-agent Communication](#multi-agent-communication)
+  * [Commonsense Reasoning](#commonsense-reasoning)
+  * [Multimodal Reinforcement Learning](#multimodal-reinforcement-learning)
+  * [Multimodal Dialog](#multimodal-dialog)
+  * [Language and Audio](#language-and-audio)
+  * [Audio and Visual](#audio-and-visual)
 
 
 # Research Papers
