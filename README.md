@@ -7,6 +7,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), arXiv 2019
 
+[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
+
 [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406), TPAMI 2018
 
 [Guest Editorial: Image and Language Understanding](https://link.springer.com/article/10.1007/s11263-017-0993-y), IJCV 2017
@@ -17,6 +19,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 ### Representation Learning
 
+[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019
+
 [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019
 
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), arXiv 2019
@@ -25,7 +29,11 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910), arXiv 2019 [[code]](https://github.com/Philip-Bachman/amdim-public)
 
-[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
+[Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066), arXiv 2019
+
+[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490), EMNLP 2019
+
+[ViCo: Word Embeddings from Visual Co-occurrences](https://arxiv.org/abs/1908.08527), ICCV 2019
 
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
@@ -172,6 +180,10 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 ## Applications
 
 ### Language and Visual QA
+
+[Interactive Language Learning by Question Answering](https://arxiv.org/abs/1908.10909), EMNLP 2019 [[code]](https://github.com/xingdi-eric-yuan/qait_public)
+
+[Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), arXiv 2019 
 
 [RUBi: Reducing Unimodal Biases in Visual Question Answering](https://arxiv.org/abs/1906.10169), arXiv 2019 [[code]](https://github.com/cdancette/rubi.bootstrap.pytorch)
 
@@ -435,6 +447,8 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
 
 ### Media Description
+
+[Towards Unsupervised Image Captioning with Shared Multimodal Embeddings](https://arxiv.org/abs/1908.09317), ICCV 2019
 
 [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547), CVPR 2019 [[code]](https://github.com/yaohungt/GSTEG_CVPR_2019)
 
