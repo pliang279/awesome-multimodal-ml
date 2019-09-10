@@ -28,6 +28,18 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
   * [Multimodal Dialog](#multimodal-dialog)
   * [Language and Audio](#language-and-audio)
   * [Audio and Visual](#audio-and-visual)
+  * [Media Description](#media-description)
+  * [Video Generation from Text](#video-generation-from-text)
+  * [Affect Recognition and Multimodal Language](#affect-recognition-and-multimodal-language)
+  * [Healthcare](#healthcare)
+  * [Robotics](#robotics)
+* [Workshops](#workshops)
+* [Tutorials](#tutorials)
+* [Courses](#courses)
+
+
+
+
 
 
 # Research Papers
