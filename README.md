@@ -3,6 +3,9 @@ By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine
 
 
 * [Research Papers](#research-papers)
+  * [Survey Papers](#survey-papers)
+* [Core Areas](#core-areas)
+  * [Representation Learning](#representation-learning)
 
 
 # Research Papers
