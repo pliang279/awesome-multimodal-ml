@@ -1,5 +1,5 @@
 # Reading List for Topics in Multimodal Machine Learning
-By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from Yao Chong Lim (yaochonl@cs.cmu.edu) and other members from the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
+By [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
 # Research Papers
 
