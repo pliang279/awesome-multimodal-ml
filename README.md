@@ -95,6 +95,15 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
+### Multimodal Translation
+
+[Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [[code]](http://chahuja.com/language2pose/)
+
+[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019
+
+[Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
+
+
 ### Missing/Imperfect Modalities
 
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
@@ -420,11 +429,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Audio and Visual
 
-[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), arXiv 2019
-
 [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160), CVPR 2019 [[code]](http://people.eecs.berkeley.edu/~shiry/speech2gesture)
-
-[Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
 
 [Capture, Learning, and Synthesis of 3D Speaking Styles](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf), CVPR 2019 [[code]](https://github.com/TimoBolkart/voca)
 
