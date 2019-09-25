@@ -12,7 +12,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Multimodal Alignment](#multimodal-alignment)
   * [Multimodal Translation](#multimodal-translation)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
-  * <a href="Missing\/Imperfect Modalities">Missing/Imperfect Modalities
   * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
   * [Intepretable Learning](#intepretable-learning)
   * [Generative Learning](#generative-learning)
@@ -146,7 +145,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
-### Missing/Imperfect Modalities
+### Missing or Imperfect Modalities
 
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
 
