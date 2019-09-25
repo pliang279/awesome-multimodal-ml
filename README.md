@@ -1,6 +1,46 @@
 # Reading List for Topics in Multimodal Machine Learning
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
+
+## Table of Contents
+
+* [Research Papers](#research-papers)
+  * [Survey Papers](#survey-papers)
+* [Core Areas](#core-areas)
+  * [Representation Learning](#representation-learning)
+  * [Multimodal Fusion](#multimodal-fusion)
+  * [Multimodal Alignment](#multimodal-alignment)
+  * [Multimodal Translation](#multimodal-translation)
+  * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
+  * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
+  * [Intepretable Learning](#intepretable-learning)
+  * [Generative Learning](#generative-learning)
+  * [Semi-supervised Learning](#semi-supervised-learning)
+  * [Self-supervised Learning](#self-supervised-learning)
+  * [Language Models](#language-models)
+  * [Adversarial Attacks](#adversarial-attacks)
+  * [Zero-Shot Learning](#zero-shot-learning)
+* [Applications](#applications)
+  * [Language and Visual QA](#language-and-visual-qa)
+  * [Language Grounding in Vision](#language-grounding-in-vision)
+  * [Language Grouding in Navigation](#language-grouding-in-navigation)
+  * [Multimodal Machine Translation](#multimodal-machine-translation)
+  * [Multi-agent Communication](#multi-agent-communication)
+  * [Commonsense Reasoning](#commonsense-reasoning)
+  * [Multimodal Reinforcement Learning](#multimodal-reinforcement-learning)
+  * [Multimodal Dialog](#multimodal-dialog)
+  * [Language and Audio](#language-and-audio)
+  * [Audio and Visual](#audio-and-visual)
+  * [Media Description](#media-description)
+  * [Video Generation from Text](#video-generation-from-text)
+  * [Affect Recognition and Multimodal Language](#affect-recognition-and-multimodal-language)
+  * [Healthcare](#healthcare)
+  * [Robotics](#robotics)
+* [Workshops](#workshops)
+* [Tutorials](#tutorials)
+* [Courses](#courses)
+
+
 # Research Papers
 
 ## Survey Papers
