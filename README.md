@@ -12,7 +12,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Multimodal Alignment](#multimodal-alignment)
   * [Multimodal Translation](#multimodal-translation)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
-  * <a href="Missing/Imperfect Modalities">Missing/Imperfect Modalities
+  * <a href="Missing\/Imperfect Modalities">Missing/Imperfect Modalities
   * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
   * [Intepretable Learning](#intepretable-learning)
   * [Generative Learning](#generative-learning)
