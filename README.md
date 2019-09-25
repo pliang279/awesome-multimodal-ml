@@ -145,7 +145,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
-### Missing or Imperfect Modalities
+### Missing/Imperfect Modalities
 
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
 
