@@ -10,6 +10,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Representation Learning](#representation-learning)
   * [Multimodal Fusion](#multimodal-fusion)
   * [Multimodal Alignment](#multimodal-alignment)
+  * [Multimodal Translation](#multimodal-translation)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
   * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
   * [Intepretable Learning](#intepretable-learning)
