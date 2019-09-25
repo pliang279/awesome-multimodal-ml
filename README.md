@@ -1,6 +1,7 @@
 # Reading List for Topics in Multimodal Machine Learning
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
+
 ## Table of Contents
 
 * [Research Papers](#research-papers)
@@ -37,10 +38,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
-
-
-
-
 
 
 # Research Papers
@@ -137,6 +134,16 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
+### Multimodal Translation
+
+[Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [[code]](http://chahuja.com/language2pose/)
+
+[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019
+
+[Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
+
+[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
+
 ### Missing or Imperfect Modalities
 
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
@@ -201,7 +208,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/abs/1711.03483), AAAI 2018
 
-[Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes] (https://arxiv.org/abs/1511.07067), CVPR 2016
+[Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes](https://arxiv.org/abs/1511.07067), CVPR 2016
 
 [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](http://proceedings.mlr.press/v32/kiros14.html), ICML 2014 [[code]](https://github.com/ryankiros/visual-semantic-embedding)
 
@@ -462,11 +469,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Audio and Visual
 
-[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), arXiv 2019
-
 [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160), CVPR 2019 [[code]](http://people.eecs.berkeley.edu/~shiry/speech2gesture)
-
-[Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
 
 [Capture, Learning, and Synthesis of 3D Speaking Styles](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf), CVPR 2019 [[code]](https://github.com/TimoBolkart/voca)
 
