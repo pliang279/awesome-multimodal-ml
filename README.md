@@ -59,6 +59,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Representation Learning
 
+[Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf), NeurIPS 2019
+
 [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019
 
 [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019 [[code]](https://github.com/uclanlp/visualbert)
@@ -237,7 +239,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), arXiv 2019 
 
-[RUBi: Reducing Unimodal Biases in Visual Question Answering](https://arxiv.org/abs/1906.10169), arXiv 2019 [[code]](https://github.com/cdancette/rubi.bootstrap.pytorch)
+[RUBi: Reducing Unimodal Biases in Visual Question Answering](https://arxiv.org/abs/1906.10169), NeurIPS 2019 [[code]](https://github.com/cdancette/rubi.bootstrap.pytorch)
 
 [GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/abs/1902.09506), CVPR 2019 [[code]](https://cs.stanford.edu/people/dorarad/gqa/)
 
