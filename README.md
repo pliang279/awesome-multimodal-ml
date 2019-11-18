@@ -617,6 +617,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 # Workshops
 
+[Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
+
 [Beyond Vision and Language: Integrating Real-World Knowledge](https://www.lantern.uni-saarland.de/), EMNLP 2019
 
 [The How2 Challenge: New Tasks for Vision & Language](https://srvk.github.io/how2-challenge/), ICML 2019
