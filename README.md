@@ -619,6 +619,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 # Workshops
 
+[Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
+
 [Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
 
 [Beyond Vision and Language: Integrating Real-World Knowledge](https://www.lantern.uni-saarland.de/), EMNLP 2019
@@ -648,8 +650,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Sight and Sound](http://sightsound.org/), CVPR 2019, CVPR 2018
 
 [The Large Scale Movie Description Challenge (LSMDC)](https://sites.google.com/site/describingmovies/), ICCV 2019, ICCV 2017
-
-[Visually Grounded Interaction and Language](https://nips2018vigil.github.io/), NeurIPS 2018
 
 [Wordplay: Reinforcement and Language Learning in Text-based Games](https://www.wordplay2018.com/), NeurIPS 2018
 
