@@ -19,7 +19,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Self-supervised Learning](#self-supervised-learning)
   * [Language Models](#language-models)
   * [Adversarial Attacks](#adversarial-attacks)
-  * [Zero-Shot Learning](#zero-shot-learning)
+  * [Few-Shot Learning](#few-shot-learning)
 * [Applications](#applications)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
@@ -225,7 +225,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/abs/1709.08693), CVPR 2018
 
-### Zero-Shot Learning
+### Few-Shot Learning
 
 [Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/abs/1703.04394), CVPR 2017
 
