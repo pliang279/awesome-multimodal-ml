@@ -426,6 +426,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Multimodal Reinforcement Learning
 
+[Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1906.07343), NeurIPS 2019
+
 [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), NeurIPS 2019 [[code]](https://github.com/facebookresearch/minirts)
 
 [Habitat: A Platform for Embodied AI Research](https://arxiv.org/abs/1904.01201), ICCV 2019 [[code]](https://aihabitat.org/)
@@ -624,6 +626,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 # Workshops
 
 [Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
+
+[Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
 
 [Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
 
