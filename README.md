@@ -416,6 +416,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Commonsense Reasoning
 
+[Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://arxiv.org/abs/1910.11475), NeurIPS 2019
+
 [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728), arXiv 2019
 
 [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830), CVPR 2019 [[code]](https://visualcommonsense.com/)
@@ -424,7 +426,9 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Multimodal Reinforcement Learning
 
-[Habitat: A Platform for Embodied AI Research](https://arxiv.org/abs/1904.01201), arXiv 2019 [[code]](https://aihabitat.org/)
+[Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), NeurIPS 2019 [[code]](https://github.com/facebookresearch/minirts)
+
+[Habitat: A Platform for Embodied AI Research](https://arxiv.org/abs/1904.01201), ICCV 2019 [[code]](https://aihabitat.org/)
 
 [Embodied Multimodal Multitask Learning](https://arxiv.org/abs/1902.01385), arXiv 2019
 
