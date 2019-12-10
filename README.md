@@ -111,6 +111,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Multimodal Fusion
 
+[Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling](https://papers.nips.cc/paper/9381-deep-multimodal-multilinear-fusion-with-high-order-polynomial-pooling), NeurIPS 2019
+
 [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496), CVPR 2019
 
 [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584), ICLR 2019 [[code]](http://nscl.csail.mit.edu/)
