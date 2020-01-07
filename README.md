@@ -360,6 +360,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Multimodal Machine Translation
 
+[Visual Agreement Regularized Training for Multi-Modal Machine Translation](https://arxiv.org/abs/1912.12014), AAAI 2020
+
 [VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](https://arxiv.org/abs/1904.03493), ICCV 2019 [[code]](http://vatex.org/main/index.html)
 
 [Latent Variable Model for Multi-modal Translation](https://arxiv.org/pdf/1811.00357), ACL 2019
