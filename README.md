@@ -629,6 +629,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 # Workshops
 
+[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
+
 [Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
 
 [Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
@@ -672,8 +674,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [WMT18: Shared Task on Multimodal Machine Translation](http://www.statmt.org/wmt18/multimodal-task.html), EMNLP 2018
 
 [Shortcomings in Vision and Language](https://sites.google.com/view/sivl/), ECCV 2018
-
-[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/), ACL 2018
 
 [Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/), EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013
 
