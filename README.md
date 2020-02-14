@@ -61,7 +61,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf), NeurIPS 2019 [[code]](http://vcml.csail.mit.edu/)
 
-[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019
+[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019 [[code]](https://github.com/jackroos/VL-BERT)
 
 [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019 [[code]](https://github.com/uclanlp/visualbert)
 
@@ -110,6 +110,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Multimodal Deep Learning](https://dl.acm.org/citation.cfm?id=3104569), ICML 2011
 
 ### Multimodal Fusion
+
+[Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
 
 [Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling](https://papers.nips.cc/paper/9381-deep-multimodal-multilinear-fusion-with-high-order-polynomial-pooling), NeurIPS 2019
 
@@ -327,8 +329,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments](https://arxiv.org/abs/1811.12354), CVPR 2019 [[code]](https://github.com/lil-lab/touchdown)
 
-[Tactical Rewind: Self-Correction via Backtracking in Vision-And-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019
-
 [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/abs/1811.10092), CVPR 2019
 
 [The Regretful Navigation Agent for Vision-and-Language Navigation](https://arxiv.org/abs/1903.01602), CVPR 2019 [[code]](https://github.com/chihyaoma/regretful-agent)
@@ -357,6 +357,10 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 
 ### Multimodal Machine Translation
+
+[Neural Machine Translation with Universal Visual Representation](https://openreview.net/forum?id=Byl8hhNYPS), ICLR 2020 [[code]](https://github.com/cooelf/UVR-NMT)
+
+[Visual Agreement Regularized Training for Multi-Modal Machine Translation](https://arxiv.org/abs/1912.12014), AAAI 2020
 
 [VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](https://arxiv.org/abs/1904.03493), ICCV 2019 [[code]](http://vatex.org/main/index.html)
 
