@@ -4,8 +4,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Table of Contents
 
-* [Research Papers](#research-papers)
-  * [Survey Papers](#survey-papers)
+* [Survey Papers](#survey-papers)
 * [Core Areas](#core-areas)
   * [Representation Learning](#representation-learning)
   * [Multimodal Fusion](#multimodal-fusion)
@@ -20,7 +19,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Language Models](#language-models)
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
-* [Applications](#applications)
+* [Applications and Datasets](#applications)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
   * [Language Grouding in Navigation](#language-grouding-in-navigation)
@@ -75,7 +74,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490), EMNLP 2019 [[code]](https://github.com/airsplay/lxmert)
 
-[ViCo: Word Embeddings from Visual Co-occurrences](https://arxiv.org/abs/1908.08527), ICCV 2019
+[ViCo: Word Embeddings from Visual Co-occurrences](https://arxiv.org/abs/1908.08527), ICCV 2019 [[code]](https://github.com/BigRedT/vico)
 
 [M-BERT: Injecting Multimodal Information in the BERT Structure](https://arxiv.org/abs/1908.05787), arXiv 2019
 
@@ -131,7 +130,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [[code]](https://github.com/yaohungt/Multimodal-Transformer)
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [[code]](https://github.com/google-research/google-research/tree/master/tcc)
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -147,7 +146,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [[code]](http://chahuja.com/language2pose/)
 
-[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019
+[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019 [[code]](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)
 
 [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [[code]](https://speech2face.github.io/)
 
@@ -237,7 +236,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
 
-## Applications
+## Applications and Datasets
 
 ### Language and Visual QA
 
@@ -633,6 +632,10 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 # Workshops
 
+[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
+
+[Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
+
 [Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
 
 [Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
@@ -676,8 +679,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [WMT18: Shared Task on Multimodal Machine Translation](http://www.statmt.org/wmt18/multimodal-task.html), EMNLP 2018
 
 [Shortcomings in Vision and Language](https://sites.google.com/view/sivl/), ECCV 2018
-
-[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/), ACL 2018
 
 [Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/), EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013
 
