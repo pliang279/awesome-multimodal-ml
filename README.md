@@ -19,7 +19,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Language Models](#language-models)
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
-* [Applications and Datasets](#applications)
+* [Applications and Datasets](#applications-and-datasets)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
   * [Language Grouding in Navigation](#language-grouding-in-navigation)
