@@ -4,8 +4,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Table of Contents
 
-* [Research Papers](#research-papers)
-  * [Survey Papers](#survey-papers)
+* [Survey Papers](#survey-papers)
 * [Core Areas](#core-areas)
   * [Representation Learning](#representation-learning)
   * [Multimodal Fusion](#multimodal-fusion)
