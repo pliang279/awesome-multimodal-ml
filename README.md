@@ -20,7 +20,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Language Models](#language-models)
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
-* [Applications](#applications)
+* [Applications and Datasets](#applications)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
   * [Language Grouding in Navigation](#language-grouding-in-navigation)
@@ -237,7 +237,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
 
-## Applications
+## Applications and Datasets
 
 ### Language and Visual QA
 
