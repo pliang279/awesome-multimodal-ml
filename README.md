@@ -302,7 +302,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
 
-[Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018
+[Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
