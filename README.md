@@ -44,6 +44,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Survey Papers
 
+[Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977), arXiv 2019
+
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), arXiv 2019
 
 [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
@@ -57,6 +59,10 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 ## Core Areas
 
 ### Representation Learning
+
+[Watching the World Go By: Representation Learning from Unlabeled Videos](https://arxiv.org/abs/2003.07990), arXiv 2020
+
+[Learning Video Representations using Contrastive Bidirectional Transformer](https://arxiv.org/abs/1906.05743), arXiv 2019
 
 [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf), NeurIPS 2019 [[code]](http://vcml.csail.mit.edu/)
 
@@ -302,7 +308,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), ECCV 2018 [[code]](https://github.com/facebookresearch/corefnmn)
 
-[Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018
+[Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
 
 [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
