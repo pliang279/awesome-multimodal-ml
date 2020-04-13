@@ -577,13 +577,21 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Affect Recognition and Multimodal Language
 
+[End-to-end Facial and Physiological Model for Affective Computing and Applications](https://arxiv.org/abs/1912.04711), arXiv 2019
+
+[Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey](https://arxiv.org/abs/1911.05609), ACM TOMM 2019
+
 [Towards Multimodal Sarcasm Detection (An Obviously_Perfect Paper)](https://arxiv.org/abs/1906.01815), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
+
+[Multi-modal Approach for Affective Computing](https://arxiv.org/abs/1804.09452), EMBC 2018
 
 [Multimodal Language Analysis with Recurrent Multistage Fusion](https://arxiv.org/abs/1808.03920), EMNLP 2018
 
 [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](http://aclweb.org/anthology/P18-1208), ACL 2018 [[code]](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 
 [Multi-attention Recurrent Network for Human Communication Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17390/16123), AAAI 2018 [[code]](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+
+[End-to-End Multimodal Emotion Recognition using Deep Neural Networks](https://arxiv.org/abs/1704.08619), arXiv 2017
 
 [AMHUSE - A Multimodal dataset for HUmor SEnsing](https://dl.acm.org/citation.cfm?id=3136806), ICMI 2017 [[code]](http://amhuse.phuselab.di.unimi.it/)
 
