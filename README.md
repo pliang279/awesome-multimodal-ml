@@ -447,6 +447,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 ### Multimodal Reinforcement Learning
 
+[Learning to Speak and Act in a Fantasy Text Adventure Game](https://arxiv.org/abs/1903.03094), arXiv 2019 [[code]](https://parl.ai/projects/light/)
+
 [Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1906.07343), NeurIPS 2019
 
 [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/abs/1906.00744), NeurIPS 2019 [[code]](https://github.com/facebookresearch/minirts)
