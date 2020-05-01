@@ -122,6 +122,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 [Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling](https://papers.nips.cc/paper/9381-deep-multimodal-multilinear-fusion-with-high-order-polynomial-pooling), NeurIPS 2019
 
+[XFlow: Cross-modal Deep Neural Networks for Audiovisual Classification](https://ieeexplore.ieee.org/abstract/document/8894404), IEEE TNNLS 2019 [[code]](https://github.com/catalina17/XFlow)
+
 [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496), CVPR 2019
 
 [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584), ICLR 2019 [[code]](http://nscl.csail.mit.edu/)
@@ -331,6 +333,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 [Grounded Compositional Semantics for Finding and Describing Images with Sentences](https://nlp.stanford.edu/~socherr/SocherKarpathyLeManningNg_TACL2013.pdf), TACL 2013
 
 ### Language Grouding in Navigation
+
+[VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering](https://arxiv.org/abs/1908.04950), BMVC 2019 [[code]](https://github.com/catalina17/VideoNavQA)
 
 [Vision-and-Dialog Navigation](https://arxiv.org/abs/1907.04957), arXiv 2019 [[code]](https://github.com/mmurray/cvdn)
 
