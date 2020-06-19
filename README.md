@@ -258,8 +258,6 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/abs/1911.06258), CVPR 2020
 
-[VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/pdf/2003.11618.pdf), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
-
 [Interactive Language Learning by Question Answering](https://arxiv.org/abs/1908.10909), EMNLP 2019 [[code]](https://github.com/xingdi-eric-yuan/qait_public)
 
 [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), arXiv 2019 
@@ -306,7 +304,7 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 ### Language Grounding in Vision
 
-[VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020
+[VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
 
 [Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019
 
