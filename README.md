@@ -306,6 +306,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 ### Language Grounding in Vision
 
+[VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020
+
 [Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019
 
 [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
