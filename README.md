@@ -62,6 +62,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 ### Representation Learning
 
+[12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [[code]](https://github.com/facebookresearch/vilbert-multi-task)
+
 [Watching the World Go By: Representation Learning from Unlabeled Videos](https://arxiv.org/abs/2003.07990), arXiv 2020
 
 [Learning Video Representations using Contrastive Bidirectional Transformer](https://arxiv.org/abs/1906.05743), arXiv 2019
@@ -117,6 +119,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 [Multimodal Deep Learning](https://dl.acm.org/citation.cfm?id=3104569), ICML 2011
 
 ### Multimodal Fusion
+
+[What Makes Training Multi-Modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681), CVPR 2020
 
 [Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
 
@@ -251,6 +255,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 ## Applications and Datasets
 
 ### Language and Visual QA
+
+[Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/abs/1911.06258), CVPR 2020
 
 [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/pdf/2003.11618.pdf), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
 
@@ -502,6 +508,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 [Text-to-Speech Synthesis](https://dl.acm.org/citation.cfm?id=1592988), 2009
 
 ### Audio and Visual
+
+[Music Gesture for Visual Sound Separation](https://arxiv.org/abs/2004.09476), CVPR 2020
 
 [Co-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition](http://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Wan_Co-Compressing_and_Unifying_Deep_CNN_Models_for_Efficient_Human_Face_CVPRW_2019_paper.pdf), CVPRW 2019
 
