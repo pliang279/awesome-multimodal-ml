@@ -304,6 +304,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 
 ### Language Grounding in Vision
 
+[Visual Grounding in Video for Unsupervised Word Translation](https://arxiv.org/abs/2003.05078), CVPR 2020 [[code]](https://github.com/gsig/visual-grounding)
+
 [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
 
 [Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019
@@ -470,6 +472,8 @@ Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
 [Reinforcement Learning for Mapping Instructions to Actions](https://people.csail.mit.edu/regina/my_papers/RL.pdf), ACL 2009
 
 ### Multimodal Dialog
+
+[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496), CVPR 2020
 
 [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508), ACL 2019 [[code]](http://affective-meld.github.io/)
 
