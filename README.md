@@ -44,7 +44,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Survey Papers
 
-Experience Grounds Language(https://arxiv.org/abs/2004.10151), arXiv 2020
+[Experience Grounds Language](https://arxiv.org/abs/2004.10151), arXiv 2020
 
 [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977), arXiv 2019
 
