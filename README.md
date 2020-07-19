@@ -250,6 +250,10 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### Few-Shot Learning
 
+[Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions](https://www.aclweb.org/anthology/2020.acl-main.625/), ACL 2020
+
+[Shaping Visual Representations with Language for Few-shot Classification](https://arxiv.org/abs/1911.02683), ACL 2020
+
 [Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/abs/1703.04394), CVPR 2017
 
 [Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
@@ -418,6 +422,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Does Multimodality Help Human and Machine for Translation and Image Captioning?](http://www.statmt.org/wmt16/pdf/W16-2358.pdf), ACL WMT 2016
 
 ### Multi-agent Communication
+
+[Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning](https://arxiv.org/abs/2005.07064), ACL 2020
 
 [Emergence of Compositional Language with Deep Generational Transmission](https://arxiv.org/abs/1904.09067), ICML 2019
 
