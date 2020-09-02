@@ -1,6 +1,12 @@
 # Reading List for Topics in Multimodal Machine Learning
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
+## Recent Content
+
+Check out our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU
+
+Our [ACL 2020 workshop on Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) and [proceedings](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/).
+
 
 ## Table of Contents
 
