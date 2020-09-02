@@ -5,7 +5,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
-NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/)
+NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/).
 
 Our [ACL 2020 workshop on Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) and [proceedings](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/).
 
