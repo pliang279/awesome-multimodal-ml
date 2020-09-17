@@ -480,6 +480,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Commonsense Reasoning
 
+[A Logical Model for Supporting Social Commonsense Knowledge Acquisition](https://arxiv.org/abs/1912.11599), arXiv 2019
+
 [Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://arxiv.org/abs/1910.11475), NeurIPS 2019
 
 [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728), arXiv 2019
