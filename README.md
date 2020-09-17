@@ -323,6 +323,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grounding in Vision
 
+[Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
+
 [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
 
 [Visual Grounding in Video for Unsupervised Word Translation](https://arxiv.org/abs/2003.05078), CVPR 2020 [[code]](https://github.com/gsig/visual-grounding)
