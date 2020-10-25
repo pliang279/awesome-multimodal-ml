@@ -703,6 +703,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Evolving Multimodal Robot Behavior via Many Stepping Stones with the Combinatorial Multi-Objective Evolutionary Algorithm
 ](https://arxiv.org/abs/1807.03392), arXiv 2018
 
+[Multi-modal Predicate Identification using Dynamically Learned Robot Controllers](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IJCAI18-saeid.pdf), IJCAI 2018
+
 [Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction](https://arxiv.org/abs/1710.09483), arXiv 2017 
 
 [Perching and Vertical Climbing: Design of a Multimodal Robot](https://ieeexplore.ieee.org/document/6907472), ICRA 2014
