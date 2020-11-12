@@ -776,6 +776,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Language and Vision](https://vision.cs.hacettepe.edu.tr/vl2016/), ACL 2016, EMNLP 2015
 
 # Tutorials
+[Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
+
 [Connecting Language and Vision to Actions](https://lvatutorial.github.io/), ACL 2018
 
 [Machine Learning for Clinicians: Advances for Multi-Modal Health Data](https://www.michaelchughes.com/mlhc2018_tutorial.html), MLHC 2018
