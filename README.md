@@ -329,6 +329,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grounding in Vision
 
+[The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/abs/2005.04790), NeurIPS 2020 [[code]](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
+
 [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
 
 [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
