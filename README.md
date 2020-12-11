@@ -30,6 +30,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Language Models](#language-models)
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
+  * [Bias and Fairness](#bias-fairness)
 * [Applications and Datasets](#applications-and-datasets)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
@@ -284,6 +285,12 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Zero-Shot Learning - The Good, the Bad and the Ugly](https://arxiv.org/abs/1703.04394), CVPR 2017
 
 [Zero-Shot Learning Through Cross-Modal Transfer](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf), NIPS 2013
+
+### Few-Shot Learning
+
+[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), NeurIPS 2016
+
+[Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://arxiv.org/abs/1904.04047), NAACL 2019 [[code]](https://github.com/TManzini/DebiasMulticlassWordEmbedding)
 
 ## Applications and Datasets
 
