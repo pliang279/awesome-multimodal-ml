@@ -135,6 +135,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Multimodal Fusion
 
+[Deep Multimodal Fusion by Channel Exchanging](https://arxiv.org/abs/2011.05005?context=cs.LG), NeurIPS 2020 [[code]](https://github.com/yikaiw/CEN)
+
 [What Makes Training Multi-Modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681), CVPR 2020
 
 [Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
