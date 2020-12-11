@@ -161,6 +161,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Multimodal Alignment
 
+[CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
+
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [[code]](https://github.com/yaohungt/Multimodal-Transformer)
 
 [Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [[code]](https://github.com/google-research/google-research/tree/master/tcc)
