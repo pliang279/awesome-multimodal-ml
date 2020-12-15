@@ -9,7 +9,7 @@ NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-
 
 Our [ACL 2020 workshop on Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) and [proceedings](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/).
 
-ACL 2020 workshop on [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
+NAACL 2021 workshop on [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
 
 Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP](https://camp-workshop.stanford.edu/), and [MVA](https://sites.google.com/view/multimodalvideo-v2).
 
@@ -135,6 +135,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Multimodal Deep Learning](https://dl.acm.org/citation.cfm?id=3104569), ICML 2011
 
 ### Multimodal Fusion
+
+[Fusion Models for Improved Visual Captioning](https://arxiv.org/abs/2010.15251), MMDLCA-ICPR 2020
 
 [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
 
