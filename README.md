@@ -3,6 +3,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Recent Content
 
+OpenAI's work on [DALL·E](https://openai.com/blog/dall-e/) and CLIP: [blog](https://openai.com/blog/clip/), [paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), and [code](https://github.com/openai/CLIP).
+
 Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/).
@@ -73,6 +75,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 ## Core Areas
 
 ### Representation Learning
+
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf) [[blog]](https://openai.com/blog/clip/) [[code]](https://github.com/openai/CLIP)
 
 [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), NeurIPS 2020 [[code]](https://github.com/zhegan27/VILLA)
 
