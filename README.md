@@ -3,7 +3,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Recent Content
 
-Microsoft Research's work on [VinVL](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb): [blog](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb), [paper] (https://arxiv.org/pdf/2101.00529.pdf)
+Microsoft Research's work on [VinVL](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb): [blog](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb), [paper](https://arxiv.org/pdf/2101.00529.pdf)
 
 OpenAI's work on [DALL·E](https://openai.com/blog/dall-e/) and CLIP: [blog](https://openai.com/blog/clip/), [paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), and [code](https://github.com/openai/CLIP).
 
