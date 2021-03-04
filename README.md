@@ -3,7 +3,9 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Recent Content
 
-ICLR workshop on [Embodied Multimodal Learning](https://eml-workshop.github.io/).
+Multimodal workshops @ NAACL 2021: [MAI-Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/), [ALVR](https://alvr-workshop.github.io/)
+
+ICLR 2021 workshop on [Embodied Multimodal Learning](https://eml-workshop.github.io/).
 
 Microsoft Research's work on [VinVL](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb): [blog](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb), [paper](https://arxiv.org/pdf/2101.00529.pdf).
 
