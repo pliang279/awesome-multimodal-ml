@@ -39,6 +39,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
   * [Bias and Fairness](#bias-and-fairness)
+  * [Human in the Loop Learning](#human-in-the-loop)
 * [Applications and Datasets](#applications-and-datasets)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
@@ -320,6 +321,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Datasheets for Datasets](https://arxiv.org/abs/1803.09010), arXiv 2018
 
 [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), NeurIPS 2016
+
+### Human in the Loop Learning
 
 ## Applications and Datasets
 
