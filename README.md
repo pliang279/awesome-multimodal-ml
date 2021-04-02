@@ -781,7 +781,15 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Finance
 
-### Human Computer Interaction
+[Multimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets](https://arxiv.org/abs/1903.06478), 2019
+
+### Human AI Interaction
+
+[Multimodal Human Computer Interaction: A Survey](https://link.springer.com/chapter/10.1007/11573425_1), HCI 2005
+
+[Affective multimodal human-computer interaction](https://dl.acm.org/doi/10.1145/1101149.1101299), Multimedia 2005
+
+[Building a multimodal human-robot interface](https://ieeexplore.ieee.org/abstract/document/1183338?casa_token=tdKeY0Q0e-4AAAAA:XfKwp5Di1O5bCEOnebeaS58waSbWm80lxNuY8IhWW7DqDLvRQj-8ettJW1NrFrmoR_ShudTgzw), IEEE Intelligent Systems 2001
 
 # Workshops
 
