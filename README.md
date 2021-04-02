@@ -56,6 +56,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
   * [Autonomous Driving](#Autonomous-Driving)
+  * [Finance](#Finance)
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
