@@ -779,6 +779,10 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Multimodal End-to-End Autonomous Driving](https://arxiv.org/pdf/1906.03199.pdf), arXiv 2020
 
+### Finance
+
+### HCI
+
 # Workshops
 
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
