@@ -789,11 +789,15 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [nuScenes: A multimodal dataset for autonomous driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf), CVPR 2020 [[dataset]](https://www.nuscenes.org/)
 
-[Multimodal End-to-End Autonomous Driving](https://arxiv.org/pdf/1906.03199.pdf), arXiv 2020
+[Multimodal End-to-End Autonomous Driving](https://arxiv.org/abs/1906.03199), arXiv 2020
 
 ### Finance
 
+[A Multimodal Event-driven LSTM Model for Stock Prediction Using Online News](https://ailab-ua.github.io/courses/resources/Qing_TKDE_2020.pdf), TKDE 2020
+
 [Multimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets](https://arxiv.org/abs/1903.06478), 2019
+
+[Multimodal deep learning for short-term stock volatility prediction](https://arxiv.org/abs/1812.10479), 2018
 
 ### Human AI Interaction
 
