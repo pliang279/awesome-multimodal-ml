@@ -39,7 +39,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
   * [Bias and Fairness](#bias-and-fairness)
-  * [Human in the Loop Learning](#human-in-the-loop)
+  * [Human in the Loop Learning](#human-in-the-loop-learning)
 * [Applications and Datasets](#applications-and-datasets)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
@@ -58,7 +58,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Robotics](#robotics)
   * [Autonomous Driving](#Autonomous-Driving)
   * [Finance](#Finance)
-  * [HCI](#HCI)
+  * [Human Computer Interaction](#Human-Computer-Interaction)
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
@@ -781,7 +781,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Finance
 
-### HCI
+### Human Computer Interaction
 
 # Workshops
 
