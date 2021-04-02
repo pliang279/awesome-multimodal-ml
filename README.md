@@ -848,7 +848,12 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Vision and Language: Bridging Vision and Language with Deep Learning](https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/), ICIP 2017
 
 # Courses
+
+[CMU 05-618, Human-AI Interaction](https://haiicmu.github.io/)
+
 [CMU 11-777, Advanced Multimodal Machine Learning](https://piazza.com/cmu/fall2018/11777/resources)
+
+[Stanford CS422: Interactive and Embodied Learning](http://cs422interactive.stanford.edu/)
 
 [CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning](http://www.cs.cmu.edu/~jeanoh/16-785/)
 
