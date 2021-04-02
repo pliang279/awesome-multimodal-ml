@@ -746,6 +746,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Robotics
 
+[A survey of socially interactive robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
+
 [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](http://www.roboticsproceedings.org/rss16/p082.pdf), RSS 2020
 
 [See, Feel, Act: Hierarchical Learning for Complex Manipulation Skills with Multi-sensory Fusion](https://robotics.sciencemag.org/content/4/26/eaav3123), Science Robotics 2019 
