@@ -84,6 +84,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538), TPAMI 2013
 
+[A survey of socially interactive robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
+
 ## Core Areas
 
 ### Representation Learning
@@ -755,8 +757,6 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 ### Robotics
 
 [Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors](https://arxiv.org/abs/2012.00201), 2020
-
-[A survey of socially interactive robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
 
 [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](http://www.roboticsproceedings.org/rss16/p082.pdf), RSS 2020
 
