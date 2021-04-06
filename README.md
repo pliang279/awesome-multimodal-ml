@@ -84,7 +84,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538), TPAMI 2013
 
-[A survey of socially interactive robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
+[A Survey of Socially Interactive Robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
 
 ## Core Areas
 
