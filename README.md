@@ -15,9 +15,7 @@ Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab
 
 NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/).
 
-Our [ACL 2020 workshop on Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) and [proceedings](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/).
-
-ACL 2020 workshop on [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
+ACL 2020 workshops on [Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), [proceedings](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/), and [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
 
 Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP](https://camp-workshop.stanford.edu/), and [MVA](https://sites.google.com/view/multimodalvideo-v2).
 
