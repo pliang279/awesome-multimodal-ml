@@ -562,7 +562,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Imitating Interactive Intelligence](https://arxiv.org/abs/2012.05672), arXiv 2020
 
-[Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
+[Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), ICLR 2021
 
 [RTFM: Generalising to Novel Environment Dynamics via Reading](https://arxiv.org/abs/1910.08210), ICLR 2020 [[code]](https://github.com/facebookresearch/RTFM)
 
