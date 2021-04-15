@@ -3,7 +3,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Recent Content
 
-Multimodal workshops @ NAACL 2021: [MAI-Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/), [ALVR](https://alvr-workshop.github.io/)
+Multimodal workshops @ NAACL 2021: [MAI-Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/), [ALVR](https://alvr-workshop.github.io/).
 
 ICLR 2021 workshop on [Embodied Multimodal Learning](https://eml-workshop.github.io/).
 
