@@ -162,6 +162,8 @@ Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/
 
 ### Multimodal Fusion
 
+[Trusted Multi-View Classification](https://openreview.net/forum?id=OOsR8BzCnl5), ICLR 2021
+
 [Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2010.08218.pdf), ICDM 2020 
 
 [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
