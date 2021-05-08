@@ -225,6 +225,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Missing or Imperfect Modalities
 
+[SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
+
 [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/abs/1905.13570), arXiv 2019
 
 [Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization](https://arxiv.org/abs/1907.01011), ACL 2019
