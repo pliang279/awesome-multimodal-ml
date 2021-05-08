@@ -233,6 +233,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Multimodal Deep Learning for Robust RGB-D Object Recognition](https://arxiv.org/abs/1507.06821), IROS 2015
 
+### Analysis of Multimodal Models
+
 ### Knowledge Graphs and Knowledge Bases
 
 [MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485), ESWC 2019
