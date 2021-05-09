@@ -239,6 +239,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf), EMNLP 2020
 
+[Blindfold Baselines for Embodied QA](https://arxiv.org/abs/1811.05013), NIPS 2018 Visually-Grounded Interaction and Language Workshop
+
 ### Knowledge Graphs and Knowledge Bases
 
 [MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485), ESWC 2019
