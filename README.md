@@ -447,6 +447,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grouding in Navigation
 
+[ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://arxiv.org/abs/2010.03768), ICLR 2021 [[code]](http://alfworld.github.io/)
+
 [Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation](https://arxiv.org/abs/2104.10674), ICRA 2021, [[code]](https://github.com/GT-RIPL/robo-vln), [[video]](https://www.youtube.com/watch?v=y16x9n_zP_4), [[project page]](https://zubair-irshad.github.io/projects/robo-vln.html)
 
 [Improving Vision-and-Language Navigation with Image-Text Pairs from the Web](https://arxiv.org/abs/2004.14973), ECCV 2020
