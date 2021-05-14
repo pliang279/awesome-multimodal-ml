@@ -215,6 +215,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Multimodal Translation
 
+[Translate-to-Recognize Networks for RGB-D Scene Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Du_Translate-to-Recognize_Networks_for_RGB-D_Scene_Recognition_CVPR_2019_paper.pdf), CVPR 2019 [[code]](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
+
 [Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [[code]](http://chahuja.com/language2pose/)
 
 [Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019 [[code]](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)
