@@ -275,6 +275,10 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Generative Learning
 
+[Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV), ICLR 2021 [[code]](https://openreview.net/attachment?id=5Y21V0RDBV&name=supplementary_material)
+
+[Variational Mixture-of-Experts Autoencodersfor Multi-Modal Deep Generative Models](https://arxiv.org/pdf/1911.03393.pdf), NeurIPS 2019 [[code]](https://github.com/iffsid/mmvae)
+
 [Few-shot Video-to-Video Synthesis](https://arxiv.org/abs/1910.12713), NeurIPS 2019 [[code]](https://nvlabs.github.io/few-shot-vid2vid/)
 
 [Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335), NeurIPS 2018 [[code1]](https://github.com/mhw32/multimodal-vae-public) [[code2]](https://github.com/panpan2/Multimodal-Variational-Autoencoder)
