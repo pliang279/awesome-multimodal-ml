@@ -417,6 +417,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grounding in Vision
 
+[Grounding 'Grounding' in NLP](https://arxiv.org/abs/2106.02192), ACL 2021
+
 [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/abs/2005.04790), NeurIPS 2020 [[code]](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
 
 [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
@@ -789,7 +791,9 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Robotics
 
-[Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors](https://arxiv.org/abs/2012.00201), 2020
+[Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors](https://arxiv.org/abs/2012.00201), ICRA 2021
+
+[Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
 
 [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](http://www.roboticsproceedings.org/rss16/p082.pdf), RSS 2020
 
