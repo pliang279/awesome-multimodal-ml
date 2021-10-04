@@ -424,6 +424,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grounding in Vision
 
+[Visually Grounded Reasoning across Languages and Cultures](https://marvl-challenge.github.io/media/paper-compressed.pdf), EMNLP 2021 [[code]](https://marvl-challenge.github.io/)
+
 [Grounding 'Grounding' in NLP](https://arxiv.org/abs/2106.02192), ACL 2021
 
 [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/abs/2005.04790), NeurIPS 2020 [[code]](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
