@@ -598,6 +598,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Multimodal Reinforcement Learning
 
+[MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research](https://arxiv.org/abs/2109.13202), NeurIPS 2021 
+
 [Imitating Interactive Intelligence](https://arxiv.org/abs/2012.05672), arXiv 2020
 
 [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), ICLR 2021
