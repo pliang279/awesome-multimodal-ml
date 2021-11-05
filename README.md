@@ -428,7 +428,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Language Grounding in Vision
 
-[Visually Grounded Reasoning across Languages and Cultures](https://marvl-challenge.github.io/media/paper-compressed.pdf), EMNLP 2021 [[code]](https://marvl-challenge.github.io/)
+[MaRVL: Multicultural Reasoning over Vision and Language](https://arxiv.org/pdf/2109.13238), EMNLP 2021 [[code]](https://marvl-challenge.github.io/)
 
 [Grounding 'Grounding' in NLP](https://arxiv.org/abs/2106.02192), ACL 2021
 
