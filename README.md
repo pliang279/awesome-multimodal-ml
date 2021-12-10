@@ -29,7 +29,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 * [Survey Papers](#survey-papers)
 * [Core Areas](#core-areas)
-  * [Representation Learning](#representation-learning)
+  * [Multimodal Representations](#multimodal-representations)
   * [Multimodal Fusion](#multimodal-fusion)
   * [Multimodal Alignment](#multimodal-alignment)
   * [Multimodal Pretraining](#multimodal-pretraining)
@@ -94,7 +94,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ## Core Areas
 
-### Representation Learning
+### Multimodal Representations
 
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [[code]](https://github.com/pliang279/MultiBench)
 
