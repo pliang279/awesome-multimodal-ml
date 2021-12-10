@@ -47,7 +47,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Bias and Fairness](#bias-and-fairness)
   * [Human in the Loop Learning](#human-in-the-loop-learning)
 
-* [Architectures]
+* [Architectures](#architectures)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
 
@@ -308,6 +308,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Multimodal Semi-supervised Learning for Image Classification](https://ieeexplore.ieee.org/abstract/document/5540120), CVPR 2010
 
 ### Self-supervised Learning
+
+[DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021 Datasets & Benchmarks Track [[code]](https://github.com/alextamkin/dabs)
 
 [Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://arxiv.org/abs/1911.12667), NeurIPS 2020 [[code]](https://github.com/HumamAlwassel/XDC)
 
