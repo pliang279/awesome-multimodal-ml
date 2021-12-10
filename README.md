@@ -34,7 +34,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Multimodal Alignment](#multimodal-alignment)
   * [Multimodal Pretraining](#multimodal-pretraining)
   * [Multimodal Translation](#multimodal-translation)
-  * [Cross-modal Retrieval](#crossmodal-retrieval)
+  * [Crossmodal Retrieval](#crossmodal-retrieval)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
   * [Analysis of Multimodal Models](#analysis-of-multimodal-models)
   * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
@@ -242,7 +242,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
-### Cross-modal Retrieval
+### Crossmodal Retrieval
 
 [MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
 
