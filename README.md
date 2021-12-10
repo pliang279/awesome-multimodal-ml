@@ -46,11 +46,9 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
   * [Few-Shot Learning](#few-shot-learning)
   * [Bias and Fairness](#bias-and-fairness)
   * [Human in the Loop Learning](#human-in-the-loop-learning)
-
 * [Architectures](#architectures)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
-
 * [Applications and Datasets](#applications-and-datasets)
   * [Language and Visual QA](#language-and-visual-qa)
   * [Language Grounding in Vision](#language-grounding-in-vision)
@@ -186,6 +184,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
 
 ### Multimodal Alignment
+
+[MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125)
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
 
