@@ -377,6 +377,17 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 [Human-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces](https://csjzhou.github.io/homepage/papers/ICML2017_Syed.pdf), ICML 2017 workshop
 
+## Architectures
+
+### Multimodal Transformers
+
+[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
+
+[PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
+
+### Multimodal Memory
+
+
 ## Applications and Datasets
 
 ### Language and Visual QA
