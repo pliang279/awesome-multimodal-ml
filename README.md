@@ -42,27 +42,11 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Recent Content
 
-[Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/) @ ICRA 2021
-
-[LANTERN 2021](https://www.lantern.uni-saarland.de/2021/): The Third Workshop Beyond Vision and LANguage: inTEgrating Real-world kNowledge @ EACL 2021
-
-Multimodal workshops @ CVPR 2021: [Multimodal Learning and Applications](https://mula-workshop.github.io/), [Sight and Sound](http://sightsound.org/), [Visual Question Answering](https://visualqa.org/workshop), [Embodied AI](https://embodied-ai.org/), [Language for 3D Scenes](http://language3dscenes.github.io/).
-
-Multimodal workshops @ NAACL 2021: [MAI-Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/), [ALVR](https://alvr-workshop.github.io/), [ViGIL](https://vigilworkshop.github.io/).
-
-ICLR 2021 workshop on [Embodied Multimodal Learning](https://eml-workshop.github.io/).
-
 Microsoft Research's work on [VinVL](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb): [blog](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb), [paper](https://arxiv.org/pdf/2101.00529.pdf).
 
 OpenAI's work on [DALL·E](https://openai.com/blog/dall-e/) and CLIP: [blog](https://openai.com/blog/clip/), [paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), and [code](https://github.com/openai/CLIP).
 
-Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
-
-NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/).
-
-ACL 2020 workshops on [Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) [(proceedings)](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/) and [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
-
-Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP](https://camp-workshop.stanford.edu/), and [MVA](https://sites.google.com/view/multimodalvideo-v2).
+Public course content from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 ## Table of Contents
 
@@ -932,6 +916,22 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 # Workshops
 
+[Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/) @ ICRA 2021
+
+[LANTERN 2021](https://www.lantern.uni-saarland.de/2021/): The Third Workshop Beyond Vision and LANguage: inTEgrating Real-world kNowledge @ EACL 2021
+
+Multimodal workshops @ CVPR 2021: [Multimodal Learning and Applications](https://mula-workshop.github.io/), [Sight and Sound](http://sightsound.org/), [Visual Question Answering](https://visualqa.org/workshop), [Embodied AI](https://embodied-ai.org/), [Language for 3D Scenes](http://language3dscenes.github.io/).
+
+Multimodal workshops @ NAACL 2021: [MAI-Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/), [ALVR](https://alvr-workshop.github.io/), [ViGIL](https://vigilworkshop.github.io/).
+
+ICLR 2021 workshop on [Embodied Multimodal Learning](https://eml-workshop.github.io/).
+
+NeurIPS 2020 workshop on [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/).
+
+ACL 2020 workshops on [Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/) [(proceedings)](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/) and [Advances in Language and Vision Research](https://alvr-workshop.github.io/).
+
+Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP](https://camp-workshop.stanford.edu/), and [MVA](https://sites.google.com/view/multimodalvideo-v2).
+
 [Multi-Modal Video Reasoning and Analyzing Competition](https://sutdcv.github.io/multi-modal-video-reasoning), ICCV 2021
 
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
@@ -1007,6 +1007,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Vision and Language: Bridging Vision and Language with Deep Learning](https://www.microsoft.com/en-us/research/publication/vision-language-bridging-vision-language-deep-learning/), ICIP 2017
 
 # Courses
+
+Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 [CMU 05-618, Human-AI Interaction](https://haiicmu.github.io/)
 
