@@ -22,6 +22,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Interpretable Machine Learning: Moving From Mythos to Diagnostics](https://arxiv.org/abs/2103.06254), arXiv 2021
 
+[CLIP-It! Language-Guided Video Summarization](https://arxiv.org/abs/2107.00650), NeurIPS 2021 [[code]](https://medhini.github.io/clip_it/)
+
 [DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021
 
 [What Makes Multi-modal Learning Better than Single (Provably)](https://arxiv.org/abs/2106.04538), NeurIPS 2021
