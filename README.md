@@ -40,10 +40,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [A co-regularized approach to semi-supervised learning with multiple views](https://web.cse.ohio-state.edu/~belkin.8/papers/CASSL_ICML_05.pdf), ICML 2005
 
-## Recent Content
-
-OpenAI's work on [DALL·E](https://openai.com/blog/dall-e/) and CLIP: [blog](https://openai.com/blog/clip/), [paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), and [code](https://github.com/openai/CLIP).
-
 Public course content from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 ## Table of Contents
@@ -124,6 +120,8 @@ Public course content from [11-777 Multimodal Machine Learning](https://cmu-mult
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [[code]](https://github.com/pliang279/MultiBench)
 
 [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [[code]](https://github.com/deepmind/deepmind-research/tree/master/perceiver)
+
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [[blog]]([blog](https://openai.com/blog/clip/)) [[code]](https://github.com/OpenAI/CLIP)
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [[blog]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [[code]](https://github.com/pzzhang/VinVL)
 
