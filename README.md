@@ -2,6 +2,22 @@
 
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
+## Some of the papers I'm currently reading carefully:
+
+[Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/pdf/2102.02779.pdf), ICML 2021
+
+[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/pdf/2103.05247.pdf), AAAI 2022
+
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/pdf/2103.03206.pdf), ICML 2021
+
+[Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), 2021
+
+[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/pdf/2107.13782.pdf)
+
+[Multisensor Fusion and Integration: Theories, Applications, and its Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6006501&casa_token=UMzH7z4YoYIAAAAA:Ivtx3Yhc6KaZ2f6uFCVu0lryp9yhMl1AFriND5WghiJVGWnF2WhXQA35R2a9mDmb2oydgaps&tag=1), IEEE Sensors Journal 2011
+
+[Interpretable Machine Learning: Moving From Mythos to Diagnostics](https://arxiv.org/pdf/2103.06254.pdf), 2021
+
 ## Recent Content
 
 [Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/) @ ICRA 2021
