@@ -4,9 +4,13 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Some of the papers I'm currently reading carefully:
 
+[Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision) @ ACL 2022
+
 [Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
 
 [Cooperative Learning for Multi-view Analysis](https://arxiv.org/abs/2112.12337), arXiv 2022
+
+[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
 
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741), arXiv 2021
 
@@ -14,31 +18,27 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
 
-[DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021
-
-[Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/pdf/2102.02779.pdf), ICML 2021
-
-[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/pdf/2103.05247.pdf), AAAI 2022
-
-[Perceiver: General Perception with Iterative Attention](https://arxiv.org/pdf/2103.03206.pdf), ICML 2021
-
 [Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), arXiv 2021
 
-[Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
+[Interpretable Machine Learning: Moving From Mythos to Diagnostics](https://arxiv.org/abs/2103.06254), arXiv 2021
 
-[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
+[DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021
 
 [What Makes Multi-modal Learning Better than Single (Provably)](https://arxiv.org/abs/2106.04538), NeurIPS 2021
 
-[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/pdf/2107.13782.pdf)
+[Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779), ICML 2021
 
-[Interpretable Machine Learning: Moving From Mythos to Diagnostics](https://arxiv.org/pdf/2103.06254.pdf), arXiv 2021
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021
+
+[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
+
+[Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
+
+[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782)
 
 [Multisensor Fusion and Integration: Theories, Applications, and its Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6006501&casa_token=UMzH7z4YoYIAAAAA:Ivtx3Yhc6KaZ2f6uFCVu0lryp9yhMl1AFriND5WghiJVGWnF2WhXQA35R2a9mDmb2oydgaps&tag=1), IEEE Sensors Journal 2011
 
 [A co-regularized approach to semi-supervised learning with multiple views](https://web.cse.ohio-state.edu/~belkin.8/papers/CASSL_ICML_05.pdf), ICML 2005
-
-[Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision) @ ACL 2022
 
 ## Recent Content
 
