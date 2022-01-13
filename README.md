@@ -1,4 +1,5 @@
 # Reading List for Topics in Multimodal Machine Learning
+
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
 ## Recent Content
@@ -402,10 +403,11 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ### Multimodal Memory
 
-
 ## Applications and Datasets
 
 ### Language and Visual QA
+
+[SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/SUTDCV/SUTD-TrafficQA)
 
 [MultiModalQA: complex question answering over text, tables and images](https://openreview.net/forum?id=ee6W5UgQLa), ICLR 2021
 
@@ -892,6 +894,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 # Workshops
 
+[Multi-Modal Video Reasoning and Analyzing Competition](https://sutdcv.github.io/multi-modal-video-reasoning), ICCV 2021
+
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
@@ -953,6 +957,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Language and Vision](https://vision.cs.hacettepe.edu.tr/vl2016/), ACL 2016, EMNLP 2015
 
 # Tutorials
+
 [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
 
 [Connecting Language and Vision to Actions](https://lvatutorial.github.io/), ACL 2018
@@ -982,4 +987,3 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Georgia Tech CS 8803, Vision and Language](http://www.prism.gatech.edu/~arjun9/CS8803_CVL_Fall17/)
 
 [Virginia Tech CS 6501-004, Vision & Language](http://www.cs.virginia.edu/~vicente/vislang/)
-
