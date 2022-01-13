@@ -251,6 +251,8 @@ Public course content from [11-777 Multimodal Machine Learning](https://cmu-mult
 
 ### Multimodal Translation
 
+[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092), ICML 2021 [[code]](https://github.com/openai/DALL-E)
+
 [Translate-to-Recognize Networks for RGB-D Scene Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Du_Translate-to-Recognize_Networks_for_RGB-D_Scene_Recognition_CVPR_2019_paper.pdf), CVPR 2019 [[code]](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
 
 [Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [[code]](http://chahuja.com/language2pose/)
