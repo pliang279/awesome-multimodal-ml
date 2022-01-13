@@ -34,7 +34,11 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
 
+[Does Vision-and-Language Pretraining Improve Lexical Grounding?](https://arxiv.org/abs/2109.10246), EMNLP 2021
+
 [Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
+
+[Language (Re)modelling: Towards Embodied Language Understanding](https://arxiv.org/abs/2005.00311), ACL 2020
 
 [Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782)
 
