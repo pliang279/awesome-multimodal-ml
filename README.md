@@ -2,6 +2,12 @@
 
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
+## Course content
+
+New course 11-877 Multimodal Machine Learning Advanced Topics in Multimodal Machine Learning coming soon in Spring 2022 @ CMU. We'll be updating with a course website and content soon!
+
+Public course content from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
+
 ## Some of the papers I'm currently reading carefully:
 
 [Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision) @ ACL 2022
@@ -45,8 +51,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Multisensor Fusion and Integration: Theories, Applications, and its Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6006501&casa_token=UMzH7z4YoYIAAAAA:Ivtx3Yhc6KaZ2f6uFCVu0lryp9yhMl1AFriND5WghiJVGWnF2WhXQA35R2a9mDmb2oydgaps&tag=1), IEEE Sensors Journal 2011
 
 [A co-regularized approach to semi-supervised learning with multiple views](https://web.cse.ohio-state.edu/~belkin.8/papers/CASSL_ICML_05.pdf), ICML 2005
-
-Public course content from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 ## Table of Contents
 
