@@ -18,6 +18,8 @@ Public course content from [11-777 Multimodal Machine Learning](https://cmu-mult
 
 [Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
 
+[Core Challenges in Embodied Vision-Language Planning](https://arxiv.org/abs/2106.13948), arXiv 2021
+
 [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878), arXiv 2021
 
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741), arXiv 2021
