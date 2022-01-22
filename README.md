@@ -4,9 +4,9 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Course content + workshops
 
-New course 11-877 Multimodal Machine Learning Advanced Topics in Multimodal Machine Learning coming soon in Spring 2022 @ CMU. We'll be updating with a course website and content soon!
+New course [11-877 Advanced Topics in Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) Spring 2022 @ CMU. It will primarily be reading and discussion-based. We plan to post discussion probes, relevant papers, and summarized discussion highlights every week on the website.
 
-Public course content from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
+Public course content and lecture videos from [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
 
 [Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision) @ ACL 2022
 
