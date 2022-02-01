@@ -46,11 +46,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Does Vision-and-Language Pretraining Improve Lexical Grounding?](https://arxiv.org/abs/2109.10246), EMNLP 2021
 
+[Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), arXiv 2021
+
+[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782), arXiv 2021
+
 [Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
 
 [Language (Re)modelling: Towards Embodied Language Understanding](https://arxiv.org/abs/2005.00311), ACL 2020
-
-[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782)
 
 [Multisensor Fusion and Integration: Theories, Applications, and its Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6006501&casa_token=UMzH7z4YoYIAAAAA:Ivtx3Yhc6KaZ2f6uFCVu0lryp9yhMl1AFriND5WghiJVGWnF2WhXQA35R2a9mDmb2oydgaps&tag=1), IEEE Sensors Journal 2011
 
