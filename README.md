@@ -301,6 +301,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Analysis of Multimodal Models
 
+[M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis](https://arxiv.org/abs/2107.08264), IEEE TVCG 2022
+
 [Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers](https://arxiv.org/abs/2102.00529), TACL 2021
 
 [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf), EMNLP 2020
