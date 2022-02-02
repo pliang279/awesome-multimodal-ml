@@ -847,6 +847,10 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Healthcare
 
+[Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Multimodal_Co-Attention_Transformer_for_Survival_Prediction_in_Gigapixel_Whole_Slide_ICCV_2021_paper.html), ICCV, 2021
+
+[Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis](https://arxiv.org/abs/1912.08937), IEEE TMI, 2020
+
 [Leveraging Medical Visual Question Answering with Supporting Facts](https://arxiv.org/abs/1905.12008), arXiv 2019
 
 [Unsupervised Multimodal Representation Learning across Medical Images and Reports](https://arxiv.org/abs/1811.08615), ML4H 2018
