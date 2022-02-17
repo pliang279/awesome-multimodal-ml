@@ -441,6 +441,18 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Memory
 
+[Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation](https://arxiv.org/abs/2111.05759), arXiv 2021
+
+[History Aware Multimodal Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2110.13309), NeurIPS 2021 [[code]](https://cshizhe.github.io/projects/vln_hamt.html)
+
+[Episodic Memory in Lifelong Language Learning](https://arxiv.org/abs/1906.01076), NeurIPS 2019
+
+[ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection](https://aclanthology.org/D18-1280.pdf), EMNLP 2018
+
+[Multimodal Memory Modelling for Video Captioning](https://arxiv.org/abs/1611.05592), CVPR 2018
+
+[Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417), ICML 2016
+
 ## Applications and Datasets
 
 ### Language and Visual QA
