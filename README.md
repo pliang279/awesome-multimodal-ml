@@ -10,54 +10,6 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision) @ ACL 2022
 
-## Some of the papers I'm currently reading carefully:
-
-[Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
-
-[Cooperative Learning for Multi-view Analysis](https://arxiv.org/abs/2112.12337), arXiv 2022
-
-[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
-
-[Core Challenges in Embodied Vision-Language Planning](https://arxiv.org/abs/2106.13948), arXiv 2021
-
-[A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878), arXiv 2021
-
-[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741), arXiv 2021
-
-[Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text](https://arxiv.org/abs/2112.07074), arXiv 2021
-
-[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
-
-[Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), arXiv 2021
-
-[Interpretable Machine Learning: Moving From Mythos to Diagnostics](https://arxiv.org/abs/2103.06254), arXiv 2021
-
-[CLIP-It! Language-Guided Video Summarization](https://arxiv.org/abs/2107.00650), NeurIPS 2021 [[code]](https://medhini.github.io/clip_it/)
-
-[DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021
-
-[What Makes Multi-modal Learning Better than Single (Provably)](https://arxiv.org/abs/2106.04538), NeurIPS 2021
-
-[Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779), ICML 2021
-
-[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021
-
-[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
-
-[Does Vision-and-Language Pretraining Improve Lexical Grounding?](https://arxiv.org/abs/2109.10246), EMNLP 2021
-
-[Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), arXiv 2021
-
-[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782), arXiv 2021
-
-[Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
-
-[Language (Re)modelling: Towards Embodied Language Understanding](https://arxiv.org/abs/2005.00311), ACL 2020
-
-[Multisensor Fusion and Integration: Theories, Applications, and its Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6006501&casa_token=UMzH7z4YoYIAAAAA:Ivtx3Yhc6KaZ2f6uFCVu0lryp9yhMl1AFriND5WghiJVGWnF2WhXQA35R2a9mDmb2oydgaps&tag=1), IEEE Sensors Journal 2011
-
-[A co-regularized approach to semi-supervised learning with multiple views](https://web.cse.ohio-state.edu/~belkin.8/papers/CASSL_ICML_05.pdf), ICML 2005
-
 ## Table of Contents
 
 * [Survey Papers](#survey-papers)
@@ -68,6 +20,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
   * [Multimodal Pretraining](#multimodal-pretraining)
   * [Multimodal Translation](#multimodal-translation)
   * [Crossmodal Retrieval](#crossmodal-retrieval)
+  * [Multimodal Co-learning](#multimodal-colearning)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
   * [Analysis of Multimodal Models](#analysis-of-multimodal-models)
   * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
@@ -133,6 +86,12 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Representations
 
+[Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text](https://arxiv.org/abs/2112.07074), arXiv 2021
+
+[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
+
+[Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), arXiv 2021
+
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [[code]](https://github.com/pliang279/MultiBench)
 
 [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [[code]](https://github.com/deepmind/deepmind-research/tree/master/perceiver)
@@ -187,6 +146,12 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Fusion
 
+[Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
+
+[Cooperative Learning for Multi-view Analysis](https://arxiv.org/abs/2112.12337), arXiv 2022
+
+[What Makes Multi-modal Learning Better than Single (Provably)](https://arxiv.org/abs/2106.04538), NeurIPS 2021
+
 [Efficient Multi-Modal Fusion with Diversity Analysis](https://dl.acm.org/doi/abs/10.1145/3474085.3475188), ACMMM 2021
 
 [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135), NeurIPS 2021
@@ -222,6 +187,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
 [Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
+
+[A co-regularized approach to semi-supervised learning with multiple views](https://web.cse.ohio-state.edu/~belkin.8/papers/CASSL_ICML_05.pdf), ICML 2005
 
 ### Multimodal Alignment
 
@@ -290,6 +257,16 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Self-Supervised Learning from Web Data for Multimodal Retrieval](https://arxiv.org/abs/1901.02004), arXiv 2019
 
 [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models](https://arxiv.org/abs/1711.06420), CVPR 2018
+
+### Multimodal Co-learning
+
+[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
+
+[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782), arXiv 2021
+
+[Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision](https://arxiv.org/abs/2010.06775), EMNLP 2020
+
+[Foundations of Multimodal Co-learning](https://www.sciencedirect.com/science/article/pii/S1566253520303006), Information Fusion 2020
 
 ### Missing or Imperfect Modalities
 
@@ -435,6 +412,10 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Transformers
 
+[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
+
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021
+
 [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
@@ -514,6 +495,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
 
 ### Language Grounding in Vision
+
+[Core Challenges in Embodied Vision-Language Planning](https://arxiv.org/abs/2106.13948), arXiv 2021
 
 [MaRVL: Multicultural Reasoning over Vision and Language](https://arxiv.org/pdf/2109.13238), EMNLP 2021 [[code]](https://marvl-challenge.github.io/)
 
