@@ -85,6 +85,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ## Core Areas
 
 ### Multimodal Representations
+[Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://arxiv.org/abs/2203.15332), CVPR 2022
 
 [Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text](https://arxiv.org/abs/2112.07074), arXiv 2021
 
@@ -441,6 +442,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ## Applications and Datasets
 
 ### Language and Visual QA
+
+[Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2203.14072), CVPR 2022
 
 [SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/SUTDCV/SUTD-TrafficQA)
 
