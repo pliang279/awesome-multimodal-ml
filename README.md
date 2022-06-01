@@ -756,6 +756,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195), ICASSP 2019 [[code]](https://imatge-upc.github.io/wav2pix/)
 
+[Learning Affective Correspondence between Music and Image](https://arxiv.org/abs/1904.00150), ICASSP 2019 [[dataset]](https://gaurav22verma.github.io/IMAC_Dataset.html)
+
 [Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input](https://arxiv.org/abs/1804.01452), ECCV 2018 [[code]](https://github.com/LiqunChen0606/Jointly-Discovering-Visual-Objects-and-Spoken-Words)
 
 [Seeing Voices and Hearing Faces: Cross-modal Biometric Matching](https://arxiv.org/abs/1804.00326), CVPR 2018 [[code]](https://github.com/a-nagrani/SVHF-Net)
@@ -934,6 +936,12 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Affective multimodal human-computer interaction](https://dl.acm.org/doi/10.1145/1101149.1101299), Multimedia 2005
 
 [Building a multimodal human-robot interface](https://ieeexplore.ieee.org/abstract/document/1183338?casa_token=tdKeY0Q0e-4AAAAA:XfKwp5Di1O5bCEOnebeaS58waSbWm80lxNuY8IhWW7DqDLvRQj-8ettJW1NrFrmoR_ShudTgzw), IEEE Intelligent Systems 2001
+
+### Multimodal Content Generation
+
+[Non-Linear Consumption of Videos Using a Sequence of Personalized Multimodal Fragments](https://gaurav22verma.github.io/assets/papers/NonLinearConsumption.pdf), IUI 2021
+
+[Generating Need-Adapted Multimodal Fragments](https://gaurav22verma.github.io/assets/MultimodalFragments.pdf), IUI 2020
 
 # Workshops
 
