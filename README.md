@@ -253,7 +253,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
-### Crossmodal Retrieval
+### Crossmodal Retrieval 
+
+[Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 [MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
 
