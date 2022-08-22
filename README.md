@@ -214,6 +214,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
 ### Multimodal Pretraining
+[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
 
 [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
 
