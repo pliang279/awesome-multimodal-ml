@@ -47,6 +47,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
   * [Multimodal Dialog](#multimodal-dialog)
   * [Language and Audio](#language-and-audio)
   * [Audio and Visual](#audio-and-visual)
+  * [Visual, IMU and Wireless](#visual-imu-and-wireless)
   * [Media Description](#media-description)
   * [Video Generation from Text](#video-generation-from-text)
   * [Affect Recognition and Multimodal Language](#affect-recognition-and-multimodal-language)
@@ -776,6 +777,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Unsupervised Learning of Spoken Language with Visual Context](https://papers.nips.cc/paper/6186-unsupervised-learning-of-spoken-language-with-visual-context.pdf), NeurIPS 2016
 
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
+
+### Visual, IMU and Wireless
+[Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors](https://ieeexplore.ieee.org/document/9826015), IPSN 2022 [[code]](https://github.com/vifi2021/Vi-Fi)
 
 ### Media Description
 
