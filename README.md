@@ -4,7 +4,9 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Course content + workshops
 
-[Tutorials on Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/cvpr2022/) at CVPR 2022 and NAACL 2022
+Check out our comprehsensive tutorial paper [Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/abs/2209.03430).
+
+[Tutorials on Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/cvpr2022/) at CVPR 2022 and NAACL 2022, slides and videos [here](https://cmu-multicomp-lab.github.io/mmml-tutorial/schedule/).
 
 New course [11-877 Advanced Topics in Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) Spring 2022 @ CMU. It will primarily be reading and discussion-based. We plan to post discussion probes, relevant papers, and summarized discussion highlights every week on the website.
 
