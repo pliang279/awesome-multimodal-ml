@@ -424,6 +424,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Transformers
 
+[Multimodal Transformer for Parallel Concatenated Variational Autoencoders](https://arxiv.org/pdf/2210.16174.pdf)
+
 [Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
 
 [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021
