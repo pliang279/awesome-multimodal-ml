@@ -89,6 +89,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Representations
 
+[Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2211.11602)
+
 [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022.
 
 [Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://arxiv.org/abs/2203.15332), CVPR 2022
@@ -423,6 +425,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ## Architectures
 
 ### Multimodal Transformers
+
+[Multimodal Transformer for Parallel Concatenated Variational Autoencoders](https://arxiv.org/pdf/2210.16174.pdf)
 
 [Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
 
