@@ -67,6 +67,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Survey Papers
 
+[Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey](https://arxiv.org/abs/2302.10035), 2023
+
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://doi.org/10.1613/jair.1.11688), JAIR 2021
 
 [Experience Grounds Language](https://arxiv.org/abs/2004.10151), EMNLP 2020
@@ -201,7 +203,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Alignment
 
+[Multi-modal Alignment using Representation Codebook](https://arxiv.org/abs/2203.00048), CVPR 2022
+
+[Multi-modal Contrastive Representation Learning for Entity Alignment](https://aclanthology.org/2022.coling-1.227.pdf) COLING 2022 [[code]](https://github.com/lzxlin/mclea)
+
 [Reconsidering Representation Alignment for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Trosten_Reconsidering_Representation_Alignment_for_Multi-View_Clustering_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/DanielTrosten/mvc)
+
+[MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding](https://aclanthology.org/2020.emnlp-main.159.pdf) , EMNLP 2020, [[code]](https://github.com/qinzzz/Multimodal-Alignment-Framework)
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
 
@@ -220,6 +228,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Deep Canonical Correlation Analysis](http://proceedings.mlr.press/v28/andrew13.html), ICML 2013 [[code]](https://github.com/VahidooX/DeepCCA)
 
 ### Multimodal Pretraining
+
+
+
 [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
 
 [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
@@ -787,6 +798,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
 
 ### Visual, IMU and Wireless
+
 [Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors](https://ieeexplore.ieee.org/document/9826015), IPSN 2022 [[code]](https://github.com/vifi2021/Vi-Fi)
 
 ### Media Description
@@ -918,6 +930,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
 
 [Evolving Multimodal Robot Behavior via Many Stepping Stones with the Combinatorial Multi-Objective Evolutionary Algorithm
+
 ](https://arxiv.org/abs/1807.03392), arXiv 2018
 
 [Multi-modal Predicate Identification using Dynamically Learned Robot Controllers](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IJCAI18-saeid.pdf), IJCAI 2018
