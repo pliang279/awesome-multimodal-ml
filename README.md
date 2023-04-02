@@ -89,6 +89,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Representations
 
+[Identifiability Results for Multimodal Contrastive Learning](https://arxiv.org/abs/2303.09166), ICLR 2023 [[code]](https://github.com/imantdaunhawer/multimodal-contrastive-learning)
+
 [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022.
 
 [Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://arxiv.org/abs/2203.15332), CVPR 2022
@@ -330,7 +332,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Generative Learning
 
+[MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises](https://openreview.net/forum?id=sdQGxouELX), ICLR 2023 [[code]](https://github.com/epalu/mmvaeplus)
+
+[On the Limitations of Multimodal VAEs](https://arxiv.org/abs/2110.04121), ICLR 2022 [[code]](https://openreview.net/attachment?id=w-CPUXXrAj&name=supplementary_material)
+
 [Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV), ICLR 2021 [[code]](https://github.com/thomassutter/MoPoE)
+
+[Self-supervised Disentanglement of Modality-specific and Shared Factors Improves Multimodal Generative Models](https://rdcu.be/c8WUU), GCPR 2020 [[code]](https://github.com/imantdaunhawer/DMVAE)
 
 [Variational Mixture-of-Experts Autoencodersfor Multi-Modal Deep Generative Models](https://arxiv.org/pdf/1911.03393.pdf), NeurIPS 2019 [[code]](https://github.com/iffsid/mmvae)
 
@@ -871,6 +879,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Multimodal_Co-Attention_Transformer_for_Survival_Prediction_in_Gigapixel_Whole_Slide_ICCV_2021_paper.html), ICCV, 2021
 
+[PET-Guided Attention Network for Segmentation of Lung Tumors from PET/CT Images](https://rdcu.be/c8WWl), GCPR 2020 [[code]](https://github.com/pvk95/PAG)
+
 [Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis](https://arxiv.org/abs/1912.08937), IEEE TMI, 2020
 
 [Leveraging Medical Visual Question Answering with Supporting Facts](https://arxiv.org/abs/1905.12008), arXiv 2019
@@ -961,6 +971,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Generating Need-Adapted Multimodal Fragments](https://gaurav22verma.github.io/assets/MultimodalFragments.pdf), IUI 2020
 
 # Workshops
+
+[Multimodal Representation Learning: Perks and Pitfalls](https://mrl-workshop.github.io/iclr-2023/), ICLR 2023
 
 [Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/) @ ICRA 2021
 
