@@ -338,6 +338,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV), ICLR 2021 [[code]](https://github.com/thomassutter/MoPoE)
 
+[Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence](https://arxiv.org/abs/2006.08242), NeurIPS 2020 [[code]](https://github.com/thomassutter/mmjsd)
+
 [Self-supervised Disentanglement of Modality-specific and Shared Factors Improves Multimodal Generative Models](https://rdcu.be/c8WUU), GCPR 2020 [[code]](https://github.com/imantdaunhawer/DMVAE)
 
 [Variational Mixture-of-Experts Autoencodersfor Multi-Modal Deep Generative Models](https://arxiv.org/pdf/1911.03393.pdf), NeurIPS 2019 [[code]](https://github.com/iffsid/mmvae)
