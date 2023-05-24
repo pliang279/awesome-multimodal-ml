@@ -67,6 +67,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Survey Papers
 
+[Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488), TPAMI 2023
+
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://doi.org/10.1613/jair.1.11688), JAIR 2021
 
 [Experience Grounds Language](https://arxiv.org/abs/2004.10151), EMNLP 2020
