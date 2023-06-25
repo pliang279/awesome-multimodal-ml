@@ -35,6 +35,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
   * [Few-Shot Learning](#few-shot-learning)
   * [Bias and Fairness](#bias-and-fairness)
   * [Human in the Loop Learning](#human-in-the-loop-learning)
+  * [Multimodal Compression and Acceleration](#multimodal-compression-and-acceleration)
 * [Architectures](#architectures)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
@@ -433,6 +434,11 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Human-centric dialog training via offline reinforcement learning](https://arxiv.org/abs/2010.05848), EMNLP 2020 [[code]](https://github.com/natashamjaques/neural_chat/tree/master/BatchRL)
 
 [Human-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces](https://csjzhou.github.io/homepage/papers/ICML2017_Syed.pdf), ICML 2017 workshop
+
+### Multimodal Compression and Acceleration
+[UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers](https://arxiv.org/pdf/2301.13741.pdf), ICML 2023 [[code](https://github.com/sdc17/UPop)]
+
+[CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/pdf/2305.17455.pdf), arXiv 2023 [[code](https://github.com/sdc17/CrossGET)]
 
 ## Architectures
 
