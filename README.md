@@ -276,6 +276,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models](https://arxiv.org/abs/1711.06420), CVPR 2018
 
+[Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](https://arxiv.org/abs/2301.05174), ECIR 2023
+
 ### Multimodal Co-learning
 
 [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
@@ -978,6 +980,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 # Workshops
 
+[Multimodal KDD 2023: International Workshop on Multimodal Learning](https://multimodal-kdd-2023.github.io), KDD 2023
+
 [Multimodal Representation Learning: Perks and Pitfalls](https://mrl-workshop.github.io/iclr-2023/), ICLR 2023
 
 [Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/) @ ICRA 2021
@@ -1059,6 +1063,8 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 [Language and Vision](https://vision.cs.hacettepe.edu.tr/vl2016/), ACL 2016, EMNLP 2015
 
 # Tutorials
+
+[Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/), ICML 2023
 
 [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
 
