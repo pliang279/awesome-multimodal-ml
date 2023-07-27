@@ -276,6 +276,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models](https://arxiv.org/abs/1711.06420), CVPR 2018
 
+[Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](https://arxiv.org/abs/2301.05174), ECIR 2023
+
 ### Multimodal Co-learning
 
 [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
