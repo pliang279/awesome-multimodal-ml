@@ -67,6 +67,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Survey Papers
 
+[Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/abs/2209.03430), arxiv 2023
+
 [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488), TPAMI 2023
 
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://doi.org/10.1613/jair.1.11688), JAIR 2021
@@ -1064,7 +1066,7 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 # Tutorials
 
-[Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/), ICML 2023
+[Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/), ICML 2023, CVPR 2022, NAACL 2022
 
 [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
 
@@ -1078,7 +1080,9 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 # Courses
 
-Follow our course [11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/), Fall 2020 @ CMU.
+[CMU 11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
+
+[CMU 11-877 Advanced Topics in Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2023/)
 
 [CMU 05-618, Human-AI Interaction](https://haiicmu.github.io/)
 
