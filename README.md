@@ -412,6 +412,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Bias and Fairness
 
+[PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199), ICCV 2023 [[project page]](https://promptstyler.github.io/)
+
 [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666), arXiv 2021
 
 [Towards Debiasing Sentence Representations](https://arxiv.org/abs/2007.08100), ACL 2020 [[code]](https://github.com/pliang279/sent_debias)
