@@ -270,6 +270,10 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Crossmodal Retrieval 
 
+[Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545), arXiv 2023 [[website]](https://princetonvisualai.github.io/multimodal_dataset_distillation/)
+
+[Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Pix2map_Cross-Modal_Retrieval_for_Inferring_Street_Maps_From_Images_CVPR_2023_paper.pdf), CVPR 2023 [[website]](https://pix2map.github.io/)
+
 [Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 [MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
@@ -951,6 +955,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Strategies for Multi-Modal Scene Exploration](https://am.is.tuebingen.mpg.de/uploads_file/attachment/attachment/307/2010_IROS_bjbk_camred.pdf), IROS 2010
 
 ### Autonomous Driving
+
+[Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Pix2map_Cross-Modal_Retrieval_for_Inferring_Street_Maps_From_Images_CVPR_2023_paper.pdf), CVPR 2023 [[website]](https://pix2map.github.io/)
 
 [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf), IEEE TITS 2020 [[website]](https://boschresearch.github.io/multimodalperception/) 
 
