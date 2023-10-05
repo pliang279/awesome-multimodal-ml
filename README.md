@@ -779,6 +779,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001), NeurIPS 2016 [[code]](http://projects.csail.mit.edu/soundnet/)
 
 ### Visual, IMU and Wireless
+[ViTag: Online WiFi Fine Time Measurements Aided Vision-Motion Identity Association in Multi-person Environments](https://ieeexplore.ieee.org/document/9918171), SECON 2022 [[code]](https://github.com/bryanbocao/vitag)
+
 [Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors](https://ieeexplore.ieee.org/document/9826015), IPSN 2022 [[code]](https://github.com/vifi2021/Vi-Fi)
 
 ### Media Description
