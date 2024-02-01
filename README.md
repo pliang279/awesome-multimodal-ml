@@ -282,6 +282,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Co-learning
 
+[Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning](https://arxiv.org/abs/2401.15935), arXiv 2024
+
 [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
 
 [Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782), arXiv 2021
@@ -959,6 +961,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Multimodal End-to-End Autonomous Driving](https://arxiv.org/abs/1906.03199), arXiv 2020
 
 ### Finance
+[Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning](https://arxiv.org/abs/2401.15935), arXiv 2024
 
 [A Multimodal Event-driven LSTM Model for Stock Prediction Using Online News](https://ailab-ua.github.io/courses/resources/Qing_TKDE_2020.pdf), TKDE 2020
 
