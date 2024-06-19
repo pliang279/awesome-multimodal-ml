@@ -58,6 +58,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
   * [Autonomous Driving](#Autonomous-Driving)
   * [Finance](#Finance)
   * [Human AI Interaction](#Human-AI-Interaction)
+  * [Multimodal Uncertainty Quantification](#multimodal-uncertainty-quantification)
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
@@ -988,6 +989,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Non-Linear Consumption of Videos Using a Sequence of Personalized Multimodal Fragments](https://gaurav22verma.github.io/assets/papers/NonLinearConsumption.pdf), IUI 2021
 
 [Generating Need-Adapted Multimodal Fragments](https://gaurav22verma.github.io/assets/MultimodalFragments.pdf), IUI 2020
+
+### Multimodal Uncertainty Quantification
+[LUMA: A Benchmark Dataset for Learning from Uncertain and Multimodal Data](https://arxiv.org/abs/2406.09864), 2024
 
 # Workshops
 
