@@ -67,6 +67,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Survey Papers
 
+[Self-Supervised Multimodal Learning: A Survey](https://arxiv.org/abs/2304.01008), TPAMI 2024.
+
 [Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/abs/2209.03430), arxiv 2023
 
 [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488), TPAMI 2023
