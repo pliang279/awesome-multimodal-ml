@@ -67,6 +67,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Survey Papers
 
+[Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques](https://arxiv.org/abs/2506.04788), arXiv 2025
+
 [Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/abs/2209.03430), arxiv 2023
 
 [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488), TPAMI 2023
