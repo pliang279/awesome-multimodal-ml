@@ -474,6 +474,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Applications and Datasets
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=pliang279_awesome-multimodal-ml) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Language and Visual QA
 
 [TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813), arXiv 2022 [[code]](https://github.com/HenryJunW/TAG)
