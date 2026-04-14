@@ -860,6 +860,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312), ECCV 2014 [[code]](http://cocodataset.org/#home)
 
 ### Video Generation from Text
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 [Image Generation from Scene Graphs](https://arxiv.org/abs/1804.01622), CVPR 2018
 
