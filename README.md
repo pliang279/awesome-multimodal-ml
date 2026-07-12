@@ -175,7 +175,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Trusted Multi-View Classification](https://openreview.net/forum?id=OOsR8BzCnl5), ICLR 2021 [[code]](https://github.com/hanmenghan/TMC)
 
-[Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2010.08218.pdf), ICDM 2020 
+[Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2010.08218.pdf), ICDM 2020
 
 [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
 
@@ -268,7 +268,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [[code]](https://github.com/NVIDIA/tacotron2)
 
-### Crossmodal Retrieval 
+### Crossmodal Retrieval
 
 [Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
@@ -422,7 +422,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [FairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment](https://arxiv.org/abs/2009.07025), ICMI 2020 [[code]](https://github.com/BiDAlab/FairCVtest)
 
-[Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993), FAccT 2019 
+[Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993), FAccT 2019
 
 [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://arxiv.org/abs/1904.04047), NAACL 2019 [[code]](https://github.com/TManzini/DebiasMulticlassWordEmbedding)
 
@@ -490,7 +490,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Interactive Language Learning by Question Answering](https://arxiv.org/abs/1908.10909), EMNLP 2019 [[code]](https://github.com/xingdi-eric-yuan/qait_public)
 
-[Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), arXiv 2019 
+[Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), arXiv 2019
 
 [RUBi: Reducing Unimodal Biases in Visual Question Answering](https://arxiv.org/abs/1906.10169), NeurIPS 2019 [[code]](https://github.com/cdancette/rubi.bootstrap.pytorch)
 
@@ -831,7 +831,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Video Captioning via Hierarchical Reinforcement Learning](https://arxiv.org/abs/1711.11135), CVPR 2018
 
-[Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [[code]](https://allenai.org/plato/charades/) 
+[Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [[code]](https://allenai.org/plato/charades/)
 
 [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640), CVPR 2018 [[code]](http://github.com/rowanz/neural-motifs)
 
@@ -935,7 +935,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](http://www.roboticsproceedings.org/rss16/p082.pdf), RSS 2020
 
-[See, Feel, Act: Hierarchical Learning for Complex Manipulation Skills with Multi-sensory Fusion](https://robotics.sciencemag.org/content/4/26/eaav3123), Science Robotics 2019 
+[See, Feel, Act: Hierarchical Learning for Complex Manipulation Skills with Multi-sensory Fusion](https://robotics.sciencemag.org/content/4/26/eaav3123), Science Robotics 2019
 
 [Early Fusion for Goal Directed Robotic Vision](https://arxiv.org/abs/1811.08824), IROS 2019
 
@@ -950,7 +950,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multi-modal Predicate Identification using Dynamically Learned Robot Controllers](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IJCAI18-saeid.pdf), IJCAI 2018
 
-[Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction](https://arxiv.org/abs/1710.09483), arXiv 2017 
+[Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction](https://arxiv.org/abs/1710.09483), arXiv 2017
 
 [Perching and Vertical Climbing: Design of a Multimodal Robot](https://ieeexplore.ieee.org/document/6907472), ICRA 2014
 
@@ -960,7 +960,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Autonomous Driving
 
-[Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf), IEEE TITS 2020 [[website]](https://boschresearch.github.io/multimodalperception/) 
+[Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf), IEEE TITS 2020 [[website]](https://boschresearch.github.io/multimodalperception/)
 
 [nuScenes: A multimodal dataset for autonomous driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf), CVPR 2020 [[dataset]](https://www.nuscenes.org/)
 
