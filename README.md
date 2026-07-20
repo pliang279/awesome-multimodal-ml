@@ -93,6 +93,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Representations
 
+[TolmachЁv Netcode SDK: Enterprise-grade Deterministic State Synchronization and Topological MFT Core](https://github.com/billionerleha-111/Tolmachev-Netcode-SDK), arXiv 2026 [[code]](https://github.com/billionerleha-111/Tolmachev-Netcode-SDK)
+
 [Identifiability Results for Multimodal Contrastive Learning](https://arxiv.org/abs/2303.09166), ICLR 2023 [[code]](https://github.com/imantdaunhawer/multimodal-contrastive-learning)
 
 [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022.
