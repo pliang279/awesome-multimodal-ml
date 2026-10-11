@@ -780,6 +780,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Audio and Visual
 
+[PVSync: A Unified Lip-Sync Expert for Timing and Articulation](https://arxiv.org/abs/2610.09223), arXiv 2026
+
 [Music Gesture for Visual Sound Separation](https://arxiv.org/abs/2004.09476), CVPR 2020
 
 [Co-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition](http://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Wan_Co-Compressing_and_Unifying_Deep_CNN_Models_for_Efficient_Human_Face_CVPRW_2019_paper.pdf), CVPRW 2019
