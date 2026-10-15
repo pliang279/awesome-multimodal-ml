@@ -270,6 +270,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Crossmodal Retrieval 
 
+[FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621), ICML 2026 [[code]](https://github.com/MCG-NJU/FreeRet)
+
 [Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 [MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
@@ -386,6 +388,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Language Models
 
+[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoChat3)
+
 [Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
 
 [Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/abs/1711.03483), AAAI 2018
@@ -460,6 +464,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Multimodal Memory
 
+[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762), arXiv 2026 [[code]](https://github.com/MCG-NJU/OneStreamer)
+
 [Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation](https://arxiv.org/abs/2111.05759), arXiv 2021
 
 [History Aware Multimodal Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2110.13309), NeurIPS 2021 [[code]](https://cshizhe.github.io/projects/vln_hamt.html)
@@ -475,6 +481,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ## Applications and Datasets
 
 ### Language and Visual QA
+
+[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224), ICML 2026 [[code]](https://github.com/MCG-NJU/Video-o3)
 
 [TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813), arXiv 2022 [[code]](https://github.com/HenryJunW/TAG)
 
@@ -533,6 +541,10 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468), ICCV 2015 [[code]](https://visualqa.org/)
 
 ### Language Grounding in Vision
+
+[TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423), arXiv 2026 [[code]](https://github.com/MCG-NJU/TimeLens2)
+
+[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoJev)
 
 [Core Challenges in Embodied Vision-Language Planning](https://arxiv.org/abs/2106.13948), arXiv 2021
 
