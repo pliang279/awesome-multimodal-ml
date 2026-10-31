@@ -255,6 +255,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ### Multimodal Translation
 
 [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092), ICML 2021 [[code]](https://github.com/openai/DALL-E)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 [Translate-to-Recognize Networks for RGB-D Scene Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Du_Translate-to-Recognize_Networks_for_RGB-D_Scene_Recognition_CVPR_2019_paper.pdf), CVPR 2019 [[code]](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
 
