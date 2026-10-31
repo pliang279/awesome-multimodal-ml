@@ -255,6 +255,14 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 ### Multimodal Translation
 
 [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092), ICML 2021 [[code]](https://github.com/openai/DALL-E)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI duo dance: two photos → 15s neon duo dance video (Paid from $7.99; unofficial)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short portrait dance video with generated music (Paid from $7.99; unofficial)
 
 [Translate-to-Recognize Networks for RGB-D Scene Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Du_Translate-to-Recognize_Networks_for_RGB-D_Scene_Recognition_CVPR_2019_paper.pdf), CVPR 2019 [[code]](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
 
