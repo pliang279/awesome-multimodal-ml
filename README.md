@@ -542,6 +542,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ### Language Grounding in Vision
 
+[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276), arXiv 2026 [[code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+
 [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423), arXiv 2026 [[code]](https://github.com/MCG-NJU/TimeLens2)
 
 [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoJev)
@@ -751,6 +753,8 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Reinforcement Learning for Mapping Instructions to Actions](https://people.csail.mit.edu/regina/my_papers/RL.pdf), ACL 2009
 
 ### Multimodal Dialog
+
+[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://arxiv.org/abs/2606.14777), arXiv 2026 [[code]](https://github.com/jd-opensource/JoyAI-VL-Interaction)
 
 [Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496), CVPR 2020
 
